@@ -402,7 +402,7 @@
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [riptano/ComboAMI](https://github.com/riptano/ComboAMI) - The AMI takes a set of input parameters via the EC2 user-data to install, RAID, ring, and launch a DataStax Enterprise/Community cluster.
 - [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
-- [edx/configuration](https://github.com/edx/configuration) - A collection of edx configuration scripts and utilities that edx.org uses to deploy openedx.
+- [openedx/configuration](https://github.com/openedx/configuration) - A collection of edx configuration scripts and utilities that edx.org uses to deploy openedx.
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [ella/ella](https://github.com/ella/ella) - Ella is a CMS based on Python web framework Django with a main focus on high-traffic news websites and Internet magazines.
 
