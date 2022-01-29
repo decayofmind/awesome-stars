@@ -441,6 +441,7 @@
 
 ## Shell 
 
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
