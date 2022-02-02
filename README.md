@@ -139,7 +139,7 @@
 - [juliosueiras/terraform-lsp](https://github.com/juliosueiras/terraform-lsp) - Language Server Protocol for Terraform
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [eldadru/ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus
 - [kubecost/cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for Kubernetes workloads
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
