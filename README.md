@@ -247,6 +247,7 @@
 
 ## Lua 
 
+- [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps and commands (requires Neovim nightly)
 - [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim) - A faster version of filetype.vim
@@ -525,6 +526,7 @@
 
 ## Vim script 
 
+- [towolf/vim-helm](https://github.com/towolf/vim-helm) - vim syntax for helm templates (yaml + gotmpl + sprig + custom)
 - [metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme) - A collection of Black Metal inspired base16 schemes.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [tpope/vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: wisely add "end" in ruby, endfunction/endif/more in vim script, etc
