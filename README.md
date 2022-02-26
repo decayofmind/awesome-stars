@@ -148,7 +148,7 @@
 - [kubecost/cost-model](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for Kubernetes workloads
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-- [morvencao/kube-mutating-webhook-tutorial](https://github.com/morvencao/kube-mutating-webhook-tutorial) - A Kubernetes mutating webhook server that implements sidecar injection
+- [morvencao/kube-sidecar-injector](https://github.com/morvencao/kube-sidecar-injector) - A Kubernetes mutating webhook server that implements sidecar injection
 - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 - [dubek/rabbitmq-dump-queue](https://github.com/dubek/rabbitmq-dump-queue) - Dump messages from a RabbitMQ queue to files, without affecting the queue.
 - [aylei/kubectl-debug](https://github.com/aylei/kubectl-debug) - This repository is no longer maintained, please checkout https://github.com/JamesTGrant/kubectl-debug.
@@ -234,7 +234,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Imangazaliev/git-tips](https://github.com/Imangazaliev/git-tips) - Часто используемые трюки и советы при работе с Git
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
-- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [ansible-community/ara-web](https://github.com/ansible-community/ara-web) - Stateless web client for the ARA Records Ansible API.
 - [IBM/spring-boot-microservices-on-kubernetes](https://github.com/IBM/spring-boot-microservices-on-kubernetes) - In this code we demonstrate how a simple Spring Boot application can be deployed on top of Kubernetes. This application, Office Space, mimicks the fictitious app idea from Michael Bolton in the movie "Office Space".
 - [mybuilder/kongfig](https://github.com/mybuilder/kongfig) - Declarative configuration for Kong
