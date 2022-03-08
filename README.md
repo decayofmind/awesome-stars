@@ -69,6 +69,7 @@
 
 ## Go 
 
+- [danvk/aoc2021](https://github.com/danvk/aoc2021) - Advent of Code 2021, this time in Go
 - [deckhouse/k8s-image-availability-exporter](https://github.com/deckhouse/k8s-image-availability-exporter) - Alert if an image used in Kubernetes cannot be pulled from container registry
 - [atlassian/escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -426,6 +427,7 @@
 
 ## Rust 
 
+- [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🏃💨 Search Dash.app from your Neovim fuzzy finder. Built with Rust 🦀 and Lua
