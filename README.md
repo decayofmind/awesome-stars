@@ -189,11 +189,11 @@
 
 ## HCL 
 
-- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate. Github, Gitlab and BitBucket are supported
-- [terraform-aws-modules/terraform-aws-acm](https://github.com/terraform-aws-modules/terraform-aws-acm) - Terraform module which creates and validates ACM certificate
+- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate. Github, Gitlab and BitBucket are supported 🇺🇦
+- [terraform-aws-modules/terraform-aws-acm](https://github.com/terraform-aws-modules/terraform-aws-acm) - Terraform module which creates and validates ACM certificate 🇺🇦
 - [cicdteam/terraform-hcloud-k3s](https://github.com/cicdteam/terraform-hcloud-k3s) - Kubernetes (k3s) Terraform installer for Hetzner Cloud
 - [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module which creates VPC resources on AWS 🇺🇦
-- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS 🇺🇦
 - [avantoss/vault-infra](https://github.com/avantoss/vault-infra) - Terraform to create Vault infrastructure
 - [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure HashiCorp Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications and services hosted anywhere.
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (available in en, fr, es, id, and other languages)
