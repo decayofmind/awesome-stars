@@ -38,6 +38,7 @@
 
 ## C 
 
+- [pimoroni/blinkt](https://github.com/pimoroni/blinkt) - Python Library for Blinkt; 8 APA102 LEDs for your Raspberry Pi
 - [vozlt/nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero Firmware
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
