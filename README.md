@@ -535,7 +535,7 @@
 - [towolf/vim-helm](https://github.com/towolf/vim-helm) - vim syntax for helm templates (yaml + gotmpl + sprig + custom)
 - [metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme) - A collection of Black Metal inspired base16 schemes.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [tpope/vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: wisely add "end" in ruby, endfunction/endif/more in vim script, etc
+- [tpope/vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: Wisely add
 - [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [pedrohdz/vim-yaml-folds](https://github.com/pedrohdz/vim-yaml-folds) - YAML, RAML, EYAML & SaltStack SLS folding for Vim
