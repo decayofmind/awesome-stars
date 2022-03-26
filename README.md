@@ -56,6 +56,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [aws/aws-for-fluent-bit](https://github.com/aws/aws-for-fluent-bit) - The source of the amazon/aws-for-fluent-bit container image
 - [pimoroni/mlx90640-library](https://github.com/pimoroni/mlx90640-library) - Python library for the MLX90640 thermal camera
 - [popcornmix/omxplayer](https://github.com/popcornmix/omxplayer) - omxplayer
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -70,6 +71,7 @@
 
 ## Go 
 
+- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [danvk/aoc2021](https://github.com/danvk/aoc2021) - Advent of Code 2021, this time in Go
 - [deckhouse/k8s-image-availability-exporter](https://github.com/deckhouse/k8s-image-availability-exporter) - Alert if an image used in Kubernetes cannot be pulled from container registry
 - [atlassian/escalator](https://github.com/atlassian/escalator) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
@@ -470,7 +472,6 @@
 - [smashedtoatoms/asdf-postgres](https://github.com/smashedtoatoms/asdf-postgres) - asdf plugin for Postgres
 - [kiurchv/asdf.plugin.zsh](https://github.com/kiurchv/asdf.plugin.zsh) - Zsh integration and completions for asdf
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [aws/aws-for-fluent-bit](https://github.com/aws/aws-for-fluent-bit) - The source of the amazon/aws-for-fluent-bit container image
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [kube-aws/kube-spot-termination-notice-handler](https://github.com/kube-aws/kube-spot-termination-notice-handler) - A Kubernetes DaemonSet to gracefully delete pods 2 minutes before an EC2 Spot Instance gets terminated
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
