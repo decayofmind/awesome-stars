@@ -106,7 +106,7 @@
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable
 - [banzaicloud/spot-termination-exporter](https://github.com/banzaicloud/spot-termination-exporter) - Prometheus spot instance exporter to monitor AWS instance termination with Hollowtrees
-- [metalmatze/alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
+- [metalmatze/alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - [deprecated] Bot for Prometheus' Alertmanager
 - [Jimdo/aws-health-exporter](https://github.com/Jimdo/aws-health-exporter) - AWS Health API Exporter for Prometheus
 - [nicholasjackson/fake-service](https://github.com/nicholasjackson/fake-service) - Simple service for testing upstream service communications
 - [helm/helm-mapkubeapis](https://github.com/helm/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs
