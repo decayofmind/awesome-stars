@@ -492,7 +492,7 @@
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
 - [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 - [gruntwork-io/pre-commit](https://github.com/gruntwork-io/pre-commit) - A collection of pre-commit hooks used by Gruntwork tools
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations
+- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
 - [powerupcloud/aws-eks-rhel-workers](https://github.com/powerupcloud/aws-eks-rhel-workers) - Running Red Hat Enterprise Linux as EKS Worker Nodes
 - [davidparsson/zsh-pyenv-lazy](https://github.com/davidparsson/zsh-pyenv-lazy) - A zsh plugin for lazy loading of pyenv
