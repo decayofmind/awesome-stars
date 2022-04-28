@@ -258,7 +258,7 @@
 ## Lua 
 
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
-- [Allaman/nvim](https://github.com/Allaman/nvim) - My pure Lua based NeoVim configuration focused on DevOps, Python and Golang
+- [Allaman/nvim](https://github.com/Allaman/nvim) - My pure Lua based Neovim configuration focused on DevOps, Python and Golang
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [marko-cerovac/material.nvim](https://github.com/marko-cerovac/material.nvim) - :trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 - [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) - Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow
@@ -471,6 +471,7 @@
 
 ## Shell 
 
+- [halcyon/asdf-java](https://github.com/halcyon/asdf-java) - A Java plugin for asdf-vm.
 - [corneliusweig/konfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
