@@ -17,8 +17,8 @@
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
   - [Lua](#lua)
+  - [MATLAB](#matlab)
   - [Makefile](#makefile)
-  - [Matlab](#matlab)
   - [Mustache](#mustache)
   - [Objective-C](#objective-c)
   - [Open Policy Agent](#open-policy-agent)
@@ -114,7 +114,7 @@
 - [nicholasjackson/fake-service](https://github.com/nicholasjackson/fake-service) - Simple service for testing upstream service communications
 - [helm/helm-mapkubeapis](https://github.com/helm/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs
 - [tuenti/secrets-manager](https://github.com/tuenti/secrets-manager) - A daemon to sync Vault secrets to Kubernetes secrets
-- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [accurics/terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -126,7 +126,7 @@
 - [aws/aws-node-termination-handler](https://github.com/aws/aws-node-termination-handler) - Gracefully handle EC2 instance shutdown within Kubernetes
 - [giantswarm/vault-exporter](https://github.com/giantswarm/vault-exporter) - A Prometheus metrics exporter for Hashicorp's Vault
 - [prometheus/consul_exporter](https://github.com/prometheus/consul_exporter) - Exporter for Consul metrics
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [peimanja/artifactory_exporter](https://github.com/peimanja/artifactory_exporter) - JFrog Artifactory Prometheus Exporter written in Go
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
@@ -138,7 +138,7 @@
 - [sei40kr/zsh-fast-alias-tips](https://github.com/sei40kr/zsh-fast-alias-tips) - Help remembering the aliases you defined once
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [MeilleursAgents/terraform-provider-ansiblevault](https://github.com/MeilleursAgents/terraform-provider-ansiblevault) - Read ansible vault from Terraform
-- [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
+- [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructi
 - [jetstack/kube-oidc-proxy](https://github.com/jetstack/kube-oidc-proxy) - Reverse proxy to authenticate to managed Kubernetes API servers via OIDC.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
@@ -177,7 +177,7 @@
 - [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
+- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minima
 - [chartmuseum/helm-push](https://github.com/chartmuseum/helm-push) - Helm plugin to push chart package to ChartMuseum
 - [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -202,7 +202,7 @@
 - [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module which creates VPC resources on AWS 🇺🇦
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS 🇺🇦
 - [avantoss/vault-infra](https://github.com/avantoss/vault-infra) - Terraform to create Vault infrastructure
-- [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure HashiCorp Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications and services hosted anywhere.
+- [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure HashiCorp Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (available in en, fr, es, id, and other languages)
 - [WesleyCharlesBlake/terraform-aws-eks](https://github.com/WesleyCharlesBlake/terraform-aws-eks) - Deploy a full EKS cluster with Terraform
 - [poseidon/terraform-aws-kubernetes](https://github.com/poseidon/terraform-aws-kubernetes) - Typhoon AWS - minimal and free Kubernetes (mirror)
@@ -214,7 +214,6 @@
 - [nophead/EnviroPlusWeb](https://github.com/nophead/EnviroPlusWeb) - Web interface for Enviro+ sensor board plugged into a Raspberry PI
 - [hjacobs/kube-resource-report](https://github.com/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 - [martinlindhe/base16-iterm2](https://github.com/martinlindhe/base16-iterm2) - Base16 for iTerm2
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
 - [crockpotveggies/tinderbox](https://github.com/crockpotveggies/tinderbox) - Automate Tinder swiping and introductions with Eigenfaces and StanfordNLP. NOTE: support for this project has been sunset, and the original author has since directed efforts towards Bernie AI.
@@ -245,7 +244,7 @@
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [ansible-community/ara-web](https://github.com/ansible-community/ara-web) - Stateless web client for the ARA Records Ansible API.
-- [IBM/spring-boot-microservices-on-kubernetes](https://github.com/IBM/spring-boot-microservices-on-kubernetes) - In this code we demonstrate how a simple Spring Boot application can be deployed on top of Kubernetes. This application, Office Space, mimicks the fictitious app idea from Michael Bolton in the movie "Office Space".
+- [IBM/spring-boot-microservices-on-kubernetes](https://github.com/IBM/spring-boot-microservices-on-kubernetes) - In this code we demonstrate how a simple Spring Boot application can be deployed on top of Kubernetes. This application, Office Space, mimicks the fictitious app idea from Michael Bolton in the movie
 - [mybuilder/kongfig](https://github.com/mybuilder/kongfig) - Declarative configuration for Kong
 - [ChWick/gnomesome](https://github.com/ChWick/gnomesome) - Yet another gnome extension for window tiling inspired by awesome supporting multiple workspaces and screens.
 - [PGBI/kong-dashboard](https://github.com/PGBI/kong-dashboard) - Dashboard for managing Kong gateway
@@ -318,14 +317,14 @@
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [edenlabllc/kong-plugin-stdout-log](https://github.com/edenlabllc/kong-plugin-stdout-log) - 
 
+## MATLAB 
+
+- [luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
+
 ## Makefile 
 
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [GloballogicPractices/kong-custom-plugin](https://github.com/GloballogicPractices/kong-custom-plugin) - Kong API Gateway Custom plugin Hello World Sample
-
-## Matlab 
-
-- [luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
 
 ## Mustache 
 
@@ -385,11 +384,11 @@
 - [python-versioneer/python-versioneer](https://github.com/python-versioneer/python-versioneer) - version-string management for VCS-controlled trees
 - [ThePiHut/rgbxmastree](https://github.com/ThePiHut/rgbxmastree) - Code examples for the RGB Xmas Tree
 - [liske/python-apds9960](https://github.com/liske/python-apds9960) - Python APDS-9960 Library
-- [alexa/alexa-apis-for-python](https://github.com/alexa/alexa-apis-for-python) - The Alexa APIs for Python consists of python classes that represent the request and response JSON of Alexa services. These models act as core dependency for the Alexa Skills Kit Python SDK (https://github.com/alexa/alexa-skills-kit-sdk-for-python).
+- [alexa/alexa-apis-for-python](https://github.com/alexa/alexa-apis-for-python) - The Alexa APIs for Python consists of python classes that represent the request and response JSON of Alexa services. These models act as core dependency for the Alexa Skills Kit Python SDK (https://gi
 - [leswright1977/RPI4_NCS2](https://github.com/leswright1977/RPI4_NCS2) - Raspberrry pi 4 Openvino Python
 - [rapidsai/frigate](https://github.com/rapidsai/frigate) - Frigate is a tool for automatically generating documentation for your Helm charts
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-- [roscoe81/enviro-monitor](https://github.com/roscoe81/enviro-monitor) - An environment monitor based on a Raspberry Pi Zero W, a Pimoroni Enviro+ and a Plantower air quality sensor to monitor, display and report on air particles, gases, temperature, humidity, noise and air pressure.
+- [roscoe81/enviro-monitor](https://github.com/roscoe81/enviro-monitor) - An environment monitor based on a Raspberry Pi Zero W, a Pimoroni Enviro+ and a Plantower air quality sensor to monitor, display and report on air particles, gases, temperature, humidity, noise and ai
 - [hjacobs/kube-web-view](https://github.com/hjacobs/kube-web-view) - Mirror of Kubernetes Web View: allows to list and view all Kubernetes resources (incl. CRDs) with permalink-friendly URLs in a plain-HTML frontend
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [yandex/yandex-tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool
@@ -427,8 +426,8 @@
 - [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
 - [willthames/ansible-review](https://github.com/willthames/ansible-review) - 
 - [kolypto/j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [ghantoos/lshell](https://github.com/ghantoos/lshell) - lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's commands, implement timing restriction, and more.
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud
+- [ghantoos/lshell](https://github.com/ghantoos/lshell) - lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's comm
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -444,6 +443,7 @@
 
 - [coinbase/terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
 - [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [supermarin/YosemiteSanFranciscoFont](https://github.com/supermarin/YosemiteSanFranciscoFont) - Replace Helvetica Neue on your 10.10 Yosemite Mac with San Francisco – the Watch font.
 - [SUSE/Portus](https://github.com/SUSE/Portus) - Authorization service and frontend for Docker registry (v2)
 
