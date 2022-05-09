@@ -209,6 +209,7 @@
 
 ## HTML 
 
+- [frekel/Pimoroni-PanTilt-Hat-WebInterface](https://github.com/frekel/Pimoroni-PanTilt-Hat-WebInterface) - This is a bootstrap webinterface for the Pimoroni PanTilt Hat
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [chrstphrknwtn/grid-clock-screensaver](https://github.com/chrstphrknwtn/grid-clock-screensaver) - Grid clock macOS screensaver
 - [nophead/EnviroPlusWeb](https://github.com/nophead/EnviroPlusWeb) - Web interface for Enviro+ sensor board plugged into a Raspberry PI
@@ -474,6 +475,7 @@
 
 ## Shell 
 
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [halcyon/asdf-java](https://github.com/halcyon/asdf-java) - A Java plugin for asdf-vm.
 - [corneliusweig/konfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
