@@ -116,7 +116,7 @@
 - [tuenti/secrets-manager](https://github.com/tuenti/secrets-manager) - A daemon to sync Vault secrets to Kubernetes secrets
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
-- [accurics/terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+- [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [hootsuite/vault-ctrl-tool](https://github.com/hootsuite/vault-ctrl-tool) - Simple tool for managing authentication, secrets, and leases for services.
