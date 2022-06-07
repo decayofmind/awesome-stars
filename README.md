@@ -217,6 +217,7 @@
 - [nophead/EnviroPlusWeb](https://github.com/nophead/EnviroPlusWeb) - Web interface for Enviro+ sensor board plugged into a Raspberry PI
 - [hjacobs/kube-resource-report](https://github.com/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
 - [martinlindhe/base16-iterm2](https://github.com/martinlindhe/base16-iterm2) - Base16 for iTerm2
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
 - [crockpotveggies/tinderbox](https://github.com/crockpotveggies/tinderbox) - Automate Tinder swiping and introductions with Eigenfaces and StanfordNLP. NOTE: support for this project has been sunset, and the original author has since directed efforts towards Bernie AI.
@@ -451,7 +452,6 @@
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A Ruby gem (and Docker image) to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [coinbase/terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
 - [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [supermarin/YosemiteSanFranciscoFont](https://github.com/supermarin/YosemiteSanFranciscoFont) - Replace Helvetica Neue on your 10.10 Yosemite Mac with San Francisco – the Watch font.
 - [SUSE/Portus](https://github.com/SUSE/Portus) - Authorization service and frontend for Docker registry (v2)
 
