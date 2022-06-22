@@ -217,7 +217,6 @@
 - [chrstphrknwtn/grid-clock-screensaver](https://github.com/chrstphrknwtn/grid-clock-screensaver) - Grid clock macOS screensaver
 - [nophead/EnviroPlusWeb](https://github.com/nophead/EnviroPlusWeb) - Web interface for Enviro+ sensor board plugged into a Raspberry PI
 - [hjacobs/kube-resource-report](https://github.com/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
-- [martinlindhe/base16-iterm2](https://github.com/martinlindhe/base16-iterm2) - Base16 for iTerm2
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [jpetazzo/trainingwheels](https://github.com/jpetazzo/trainingwheels) - 
@@ -338,6 +337,7 @@
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [gabibbo97/charts](https://github.com/gabibbo97/charts) - My helm charts
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
+- [base16-project/base16-iterm2](https://github.com/base16-project/base16-iterm2) - Base16 for iTerm2
 
 ## Objective-C 
 
