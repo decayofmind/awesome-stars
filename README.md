@@ -570,6 +570,7 @@
 
 ## TypeScript 
 
+- [CoolerMasterTechnology/Pi-Tool](https://github.com/CoolerMasterTechnology/Pi-Tool) - Overclocking and button-remapping utility for the Raspberry Pi 4, designed for Pi Case 40
 - [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server) - Ansible Language Server
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [Skatteetaten/cognito-eks](https://github.com/Skatteetaten/cognito-eks) - 
