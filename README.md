@@ -271,6 +271,7 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim) - Live grep with args
 - [Everblush/everblush.nvim](https://github.com/Everblush/everblush.nvim) - A port of everblush.vim but written in lua
 - [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) - 💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
