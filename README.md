@@ -380,6 +380,7 @@
 
 ## Others 
 
+- [Tundrak/IPTV-Italia](https://github.com/Tundrak/IPTV-Italia) - Collezione di link a canali TV e Radio italiani visibili e ascoltabili da Internet con un media player
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [zdharma-continuum/I_WANT_TO_HELP](https://github.com/zdharma-continuum/I_WANT_TO_HELP) - https://www.reddit.com/r/zsh/comments/qinb6j/httpsgithubcomzdharma_has_suddenly_disappeared_i/hil4oww/
@@ -479,6 +480,7 @@
 
 ## Ruby 
 
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A Ruby gem (and Docker image) to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [coinbase/terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
 - [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
@@ -569,6 +571,7 @@
 
 ## Swift 
 
+- [xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll) - A mac app to help monitor your app badges!
 - [yulrizka/osx-push-to-talk](https://github.com/yulrizka/osx-push-to-talk) - OSX status bar application that mute microphone on user key press
 - [Kevin-De-Koninck/Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner
 - [Pyroh/Fluor](https://github.com/Pyroh/Fluor) - A handy tool for macOS allowing you to switch Fn keys' mode based on active application.
@@ -577,6 +580,7 @@
 
 ## TypeScript 
 
+- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [CoolerMasterTechnology/Pi-Tool](https://github.com/CoolerMasterTechnology/Pi-Tool) - Overclocking and button-remapping utility for the Raspberry Pi 4, designed for Pi Case 40
 - [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server) - Ansible Language Server
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
