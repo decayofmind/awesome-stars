@@ -81,7 +81,7 @@
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
 - [andreazorzetto/yh](https://github.com/andreazorzetto/yh) - YAML syntax highlighter to bring colours to kubectl output
 - [aws/amazon-ec2-metadata-mock](https://github.com/aws/amazon-ec2-metadata-mock) - A tool to simulate Amazon EC2 instance metadata
-- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters
+- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller) - A GitOps Terraform controller for Kubernetes
