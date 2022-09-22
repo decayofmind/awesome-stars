@@ -213,7 +213,7 @@
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦
 - [avantoss/vault-infra](https://github.com/avantoss/vault-infra) - Terraform to create Vault infrastructure
 - [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure HashiCorp Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications
-- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴🇹🇷
 - [WesleyCharlesBlake/terraform-aws-eks](https://github.com/WesleyCharlesBlake/terraform-aws-eks) - Deploy a full EKS cluster with Terraform
 - [poseidon/terraform-aws-kubernetes](https://github.com/poseidon/terraform-aws-kubernetes) - Typhoon AWS - minimal and free Kubernetes (mirror)
 
