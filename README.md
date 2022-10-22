@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -35,6 +36,10 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## Batchfile 
+
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 
 ## C 
 
@@ -220,7 +225,6 @@
 
 ## HTML 
 
-- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [frekel/Pimoroni-PanTilt-Hat-WebInterface](https://github.com/frekel/Pimoroni-PanTilt-Hat-WebInterface) - This is a bootstrap webinterface for the Pimoroni PanTilt Hat
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [chrstphrknwtn/grid-clock-screensaver](https://github.com/chrstphrknwtn/grid-clock-screensaver) - Grid clock macOS screensaver
@@ -419,7 +423,7 @@
 
 ## Python 
 
-- [wetox-team/flipperzero-goodies](https://github.com/wetox-team/flipperzero-goodies) - Some usefull data for flipper zero [intercom keys][scripts]
+- [wetox-team/flipperzero-goodies](https://github.com/wetox-team/flipperzero-goodies) - Some usefull data for flipper zero [intercom_keys][scripts] by wetox / 2LNLWTX
 - [mihaibarbu94/airQualityMonitor](https://github.com/mihaibarbu94/airQualityMonitor) - 
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
