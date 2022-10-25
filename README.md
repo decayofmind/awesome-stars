@@ -561,7 +561,7 @@
 - [kabachook/k8s-security](https://github.com/kabachook/k8s-security) - Kubernetes security notes and best practices
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
 - [openstack/openstack-helm-infra](https://github.com/openstack/openstack-helm-infra) - Repository for OpenStack Helm infrastructure-related code. Mirror of code maintained at opendev.org.
-- [balenalabs/balena-sense](https://github.com/balenalabs/balena-sense) - Take readings from a BME680 or similar sensor on a Raspberry Pi, store with InfluxDB and view with Grafana
+- [balena-labs-projects/balena-sense](https://github.com/balena-labs-projects/balena-sense) - Take readings from a BME680 or similar sensor on a Raspberry Pi, store with InfluxDB and view with Grafana
 - [groundnuty/k8s-wait-for](https://github.com/groundnuty/k8s-wait-for) - A simple script that allows to wait for a k8s service, job or pods to enter a desired state
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
