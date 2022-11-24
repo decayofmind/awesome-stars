@@ -279,6 +279,7 @@
 
 ## Lua 
 
+- [jayp0521/mason-null-ls.nvim](https://github.com/jayp0521/mason-null-ls.nvim) - 
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - 
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [smjonas/live-command.nvim](https://github.com/smjonas/live-command.nvim) - The easiest way to create previewable commands in Neovim.
@@ -427,6 +428,7 @@
 
 ## Python 
 
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [wetox-team/flipperzero-goodies](https://github.com/wetox-team/flipperzero-goodies) - Some usefull data for flipper zero [intercom_keys][scripts] by wetox / 2LNLWTX
 - [mihaibarbu94/airQualityMonitor](https://github.com/mihaibarbu94/airQualityMonitor) - 
