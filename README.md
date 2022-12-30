@@ -5,10 +5,10 @@
 
 ## Contents
 
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
+- [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -37,16 +37,13 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 
-## Batchfile 
-
-- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
-
 ## C 
 
 - [ngalaiko/tree-sitter-go-template](https://github.com/ngalaiko/tree-sitter-go-template) - Golang template grammar for tree-sitter
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - Flipper Zero FW [ROGUEMASTER]
+- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster FlipperZero Firmware
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [pimoroni/blinkt](https://github.com/pimoroni/blinkt) - Python Library for Blinkt; 8 APA102 LEDs for your Raspberry Pi
 - [vozlt/nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -73,6 +70,10 @@
 ## CSS 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+## Crystal 
+
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A Ruby gem (and Docker image) to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## Dockerfile 
 
@@ -282,6 +283,9 @@
 
 ## Lua 
 
+- [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
+- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.
+- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Fluent navigation and management of markdown notebooks
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) - 
 - [jay-babu/mason-null-ls.nvim](https://github.com/jay-babu/mason-null-ls.nvim) - 
@@ -485,7 +489,6 @@
 - [tsukinowasha/ansible-lint-rules](https://github.com/tsukinowasha/ansible-lint-rules) - ansible-lint rules
 - [AsavarTzeth/ansible-gnome_shell_extension](https://github.com/AsavarTzeth/ansible-gnome_shell_extension) - Ansible Module - For managing Gnome Shell extensions
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [ansible/ansible-container](https://github.com/ansible/ansible-container) - DEPRECATED -- Ansible Container was a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
 - [willthames/ansible-review](https://github.com/willthames/ansible-review) - 
@@ -506,7 +509,6 @@
 
 - [teamookla/homebrew-speedtest](https://github.com/teamookla/homebrew-speedtest) - Homebrew formulae for Speedtest
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A Ruby gem (and Docker image) to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [coinbase/terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
 - [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
 - [supermarin/YosemiteSanFranciscoFont](https://github.com/supermarin/YosemiteSanFranciscoFont) - Replace Helvetica Neue on your 10.10 Yosemite Mac with San Francisco – the Watch font.
@@ -636,7 +638,6 @@
 - [pedrohdz/vim-yaml-folds](https://github.com/pedrohdz/vim-yaml-folds) - YAML, RAML, EYAML & SaltStack SLS folding for Vim
 - [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
-- [Blacksuan19/init.nvim](https://github.com/Blacksuan19/init.nvim) - An Opinionated Neovim Config for the Minimalists
 - [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
