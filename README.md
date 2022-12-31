@@ -73,7 +73,7 @@
 
 ## Crystal 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A Ruby gem (and Docker image) to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to install and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## Dockerfile 
 
@@ -283,6 +283,7 @@
 
 ## Lua 
 
+- [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
