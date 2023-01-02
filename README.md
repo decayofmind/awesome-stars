@@ -10,6 +10,7 @@
 - [CSS](#css)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
+- [Fennel](#fennel)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -78,6 +79,11 @@
 ## Dockerfile 
 
 - [wiremock/wiremock-docker](https://github.com/wiremock/wiremock-docker) - Wiremock Docker image
+
+## Fennel 
+
+- [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen navigation quicker and more natural than ever
 
 ## Go 
 
@@ -283,6 +289,9 @@
 
 ## Lua 
 
+- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+- [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap
 - [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter based structural search and replace plugin for Neovim.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
 - [hrsh7th/cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline) - nvim-cmp source for vim's cmdline
