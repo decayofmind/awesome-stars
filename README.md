@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [C++](#c++)
+- [CSS](#css)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
 - [Fennel](#fennel)
@@ -66,6 +67,10 @@
 - [pimoroni/mlx90640-library](https://github.com/pimoroni/mlx90640-library) - Python library for the MLX90640 thermal camera
 - [popcornmix/omxplayer](https://github.com/popcornmix/omxplayer) - omxplayer
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
+
+## CSS 
+
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## Crystal 
 
@@ -284,7 +289,7 @@
 
 ## Lua 
 
-- [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) - Status column plugin for neovim with presets and click handlers
+- [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) - Status column plugin that provides a configurable 'statuscolumn' and click handlers.
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities for Neovim
 - [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -582,7 +587,6 @@
 - [powerupcloud/aws-eks-rhel-workers](https://github.com/powerupcloud/aws-eks-rhel-workers) - Running Red Hat Enterprise Linux as EKS Worker Nodes
 - [davidparsson/zsh-pyenv-lazy](https://github.com/davidparsson/zsh-pyenv-lazy) - A zsh plugin for lazy loading of pyenv
 - [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [laggardkernel/zsh-iterm2](https://github.com/laggardkernel/zsh-iterm2) - Pack iTerm2 shell integration scripts as a ZSH plugin
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
 - [kabachook/k8s-security](https://github.com/kabachook/k8s-security) - Kubernetes security notes and best practices
