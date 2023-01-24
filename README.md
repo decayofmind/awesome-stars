@@ -460,6 +460,7 @@
 
 ## Python 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [wetox-team/flipperzero-goodies](https://github.com/wetox-team/flipperzero-goodies) - Some usefull data for flipper zero [intercom_keys][scripts] by wetox / 2LNLWTX
@@ -564,6 +565,7 @@
 
 ## Shell 
 
+- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [halcyon/asdf-java](https://github.com/halcyon/asdf-java) - A Java plugin for asdf-vm.
 - [corneliusweig/konfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
