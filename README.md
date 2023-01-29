@@ -388,6 +388,7 @@
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - ripgrep source for nvim-cmp
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
@@ -460,6 +461,7 @@
 
 ## Python 
 
+- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -561,7 +563,6 @@
 ## Scheme 
 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
-- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 
 ## Shell 
 
@@ -633,6 +634,7 @@
 
 ## TypeScript 
 
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [CoolerMasterTechnology/Pi-Tool](https://github.com/CoolerMasterTechnology/Pi-Tool) - Overclocking and button-remapping utility for the Raspberry Pi 4, designed for Pi Case 40
 - [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server) - Ansible Language Server
