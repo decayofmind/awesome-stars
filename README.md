@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [educ8s/Seeeduino-Xiao-Temperature-Monitor-with-OLED-display](https://github.com/educ8s/Seeeduino-Xiao-Temperature-Monitor-with-OLED-display) - This is a simple temperature monitor using the Seeeduino Xiao board. It uses an SSD1306 OLED display and a DS18B20 temperature sensor
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
