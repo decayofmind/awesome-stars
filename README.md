@@ -267,6 +267,7 @@
 
 ## JavaScript 
 
+- [sue445/chrome-gitlab-notifier](https://github.com/sue445/chrome-gitlab-notifier) - Notify Gitlab Project events (Commit, Issue, MergeRequest and Milestone)
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [martinkangur/shelly](https://github.com/martinkangur/shelly) - 
 - [ikatyang/tree-sitter-yaml](https://github.com/ikatyang/tree-sitter-yaml) - YAML grammar for tree-sitter
