@@ -94,6 +94,7 @@
 
 ## Go 
 
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [terraform-linters/tflint-ruleset-opa](https://github.com/terraform-linters/tflint-ruleset-opa) - Experimental: TFLint ruleset plugin for writing custom rules in Rego.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
