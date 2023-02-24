@@ -259,6 +259,7 @@
 
 ## Java 
 
+- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [rundeck-plugins/vault-storage](https://github.com/rundeck-plugins/vault-storage) - Storage plugin for Rundeck for storing data in Vault
 - [jenkinsci/kubernetes-plugin](https://github.com/jenkinsci/kubernetes-plugin) - Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
@@ -477,6 +478,8 @@
 
 ## Python 
 
+- [black-161-flag/libcamera-streamer](https://github.com/black-161-flag/libcamera-streamer) - simple streaming server using picamera2
+- [sbcshop/PiCube](https://github.com/sbcshop/PiCube) - PiCube is a 4x4x4 LED cube HAT for Raspberry Pi with 5V DC operating voltage. PiCube, a monochromatic( Red, Blue, Green) LED with 64, is the latest product in the range of technologically advanced dev
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [SkeletonMan03/FZEasyMarauderFlash](https://github.com/SkeletonMan03/FZEasyMarauderFlash) - Easily Flash Marauder onto the Flipper Zero Devboard or an ESP32!
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
@@ -560,6 +563,7 @@
 
 ## Rust 
 
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
