@@ -45,6 +45,7 @@
 
 ## C 
 
+- [Matt-London/pwnagotchi-flipper](https://github.com/Matt-London/pwnagotchi-flipper) - Integrate the Flipper Zero with the Pwnagotchi
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [vad7/nrf24scan](https://github.com/vad7/nrf24scan) - NRF24 scanner with resend ability for Flipper Zero
 - [ngalaiko/tree-sitter-go-template](https://github.com/ngalaiko/tree-sitter-go-template) - Golang template grammar for tree-sitter
@@ -217,7 +218,7 @@
 - [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, OnMetal, and Kubevirt wi
+- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
 - [chartmuseum/helm-push](https://github.com/chartmuseum/helm-push) - Helm plugin to push chart package to ChartMuseum
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [dhilipkumars/redis-sentinel-micro](https://github.com/dhilipkumars/redis-sentinel-micro) - Minimalistic redis sentinel process only to do slave promoton
