@@ -96,6 +96,7 @@
 
 ## Go 
 
+- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [terraform-linters/tflint-ruleset-opa](https://github.com/terraform-linters/tflint-ruleset-opa) - Experimental: TFLint ruleset plugin for writing custom rules in Rego.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -285,6 +286,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [sergiitk/pagerbeauty](https://github.com/sergiitk/pagerbeauty) - :pager::sparkles: PagerDuty on-call widget for monitoring dashboard. Datadog and Grafana compatible
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Imangazaliev/git-tips](https://github.com/Imangazaliev/git-tips) - Часто используемые трюки и советы при работе с Git
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -304,6 +306,7 @@
 
 ## Lua 
 
+- [Allaman/kustomize.nvim](https://github.com/Allaman/kustomize.nvim) - A Neovim plugin with some useful functions for working with Kustomize
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
@@ -485,7 +488,7 @@
 - [SkeletonMan03/FZEasyMarauderFlash](https://github.com/SkeletonMan03/FZEasyMarauderFlash) - Easily Flash Marauder onto the Flipper Zero Devboard or an ESP32!
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [wetox-team/flipperzero-goodies](https://github.com/wetox-team/flipperzero-goodies) - Some usefull data for flipper zero [intercom_keys][scripts] by wetox / 2LNLWTX
 - [mihaibarbu94/airQualityMonitor](https://github.com/mihaibarbu94/airQualityMonitor) - 
