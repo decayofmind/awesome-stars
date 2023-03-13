@@ -306,6 +306,7 @@
 
 ## Lua 
 
+- [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Scope.nvim: changing the way of using tabs on neovim. Tab::Buf.
 - [Allaman/kustomize.nvim](https://github.com/Allaman/kustomize.nvim) - A Neovim plugin with some useful functions for working with Kustomize
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.
