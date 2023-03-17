@@ -329,7 +329,6 @@
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.
-- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Fluent navigation and management of markdown notebooks
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) - 
 - [jay-babu/mason-null-ls.nvim](https://github.com/jay-babu/mason-null-ls.nvim) - 
@@ -595,6 +594,7 @@
 ## Shell 
 
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [halcyon/asdf-java](https://github.com/halcyon/asdf-java) - A Java plugin for asdf-vm.
 - [corneliusweig/konfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
