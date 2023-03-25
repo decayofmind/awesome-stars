@@ -450,6 +450,7 @@
 
 ## Others 
 
+- [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [Speexvocon/FlipperZeroHeaderExtender](https://github.com/Speexvocon/FlipperZeroHeaderExtender) - Flipper Zero Header Extender Gerber Files
 - [Tundrak/IPTV-Italia](https://github.com/Tundrak/IPTV-Italia) - Collezione di link a canali TV e Radio italiani visibili e ascoltabili da Internet con un media player
