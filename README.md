@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [sukeesh/k8s-job-notify](https://github.com/sukeesh/k8s-job-notify) - Kuberenets Job/CronJob Notifier
 - [joe-elliott/cert-exporter](https://github.com/joe-elliott/cert-exporter) - A Prometheus exporter that publishes cert expirations on disk and in Kubernetes secrets
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
@@ -312,6 +313,9 @@
 
 ## Lua 
 
+- [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.
+- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+- [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) - 
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files and command output from neovim terminals in your current neovim instance
 - [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Scope.nvim: changing the way of using tabs on neovim. Tab::Buf.
 - [Allaman/kustomize.nvim](https://github.com/Allaman/kustomize.nvim) - A Neovim plugin with some useful functions for working with Kustomize
