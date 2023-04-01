@@ -46,6 +46,7 @@
 
 ## C 
 
+- [zacharyweiss/magspoof_flipper](https://github.com/zacharyweiss/magspoof_flipper) - Work-in-progress port of Samy Kamkar's MagSpoof project (http://samy.pl/magspoof/) to the Flipper Zero. Enables wireless emulation of magstripe data, using the inbuilt RFID coil as an electromagnet.
 - [Matt-London/pwnagotchi-flipper](https://github.com/Matt-London/pwnagotchi-flipper) - Integrate the Flipper Zero with the Pwnagotchi
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [vad7/nrf24scan](https://github.com/vad7/nrf24scan) - NRF24 scanner with resend ability for Flipper Zero
@@ -97,6 +98,7 @@
 
 ## Go 
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [sukeesh/k8s-job-notify](https://github.com/sukeesh/k8s-job-notify) - Kuberenets Job/CronJob Notifier
 - [joe-elliott/cert-exporter](https://github.com/joe-elliott/cert-exporter) - A Prometheus exporter that publishes cert expirations on disk and in Kubernetes secrets
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
@@ -597,6 +599,7 @@
 
 ## Scala 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [tumblr/collins](https://github.com/tumblr/collins) - groovy kind of love
 
 ## Scheme 
