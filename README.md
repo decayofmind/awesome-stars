@@ -254,6 +254,7 @@
 
 ## HTML 
 
+- [meoker/pagger](https://github.com/meoker/pagger) - Sub-GHz generators for restaurants/kiosks paging systems compatible with the Flipper Zero.
 - [frekel/Pimoroni-PanTilt-Hat-WebInterface](https://github.com/frekel/Pimoroni-PanTilt-Hat-WebInterface) - This is a bootstrap webinterface for the Pimoroni PanTilt Hat
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [chrstphrknwtn/grid-clock-screensaver](https://github.com/chrstphrknwtn/grid-clock-screensaver) - Grid clock macOS screensaver
@@ -608,6 +609,7 @@
 
 ## Shell 
 
+- [Karmenzind/monaco-nerd-fonts](https://github.com/Karmenzind/monaco-nerd-fonts) - monaco font patched with extra nerd glyphs
 - [scavlev/dotfiles](https://github.com/scavlev/dotfiles) - 
 - [protosam/kubernetes-manifest-validator](https://github.com/protosam/kubernetes-manifest-validator) - 
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
