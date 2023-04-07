@@ -582,6 +582,7 @@
 
 ## Rust 
 
+- [Arekkusuva/jira-nvim](https://github.com/Arekkusuva/jira-nvim) - Control Jira from Neovim
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
@@ -701,6 +702,7 @@
 
 ## Vim Script 
 
+- [lunacookies/vim-colors-xcode](https://github.com/lunacookies/vim-colors-xcode) - Xcode 11’s dark and light colourschemes for Vim
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [tjdevries/cyclist.vim](https://github.com/tjdevries/cyclist.vim) - cycle + listchars
