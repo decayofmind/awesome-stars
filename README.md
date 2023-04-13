@@ -138,7 +138,7 @@
 - [nat-henderson/terraform-provider-dominos](https://github.com/nat-henderson/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
 - [awslabs/amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
-- [fluxcd/terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform provider for Flux version 2
+- [fluxcd/terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform provider for bootstrapping Flux
 - [hashicorp/terraform-ls](https://github.com/hashicorp/terraform-ls) - Terraform Language Server
 - [kubernetes-sigs/cluster-capacity](https://github.com/kubernetes-sigs/cluster-capacity) - Cluster capacity analysis
 - [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) - Kubernetes platform from Flant
