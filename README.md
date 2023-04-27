@@ -46,6 +46,7 @@
 
 ## C 
 
+- [0015/ESP32Berry](https://github.com/0015/ESP32Berry) - ESP32Berry Project
 - [zacharyweiss/magspoof_flipper](https://github.com/zacharyweiss/magspoof_flipper) - Work-in-progress port of Samy Kamkar's MagSpoof project (http://samy.pl/magspoof/) to the Flipper Zero. Enables wireless emulation of magstripe data, using the inbuilt RFID coil as an electromagnet.
 - [Matt-London/pwnagotchi-flipper](https://github.com/Matt-London/pwnagotchi-flipper) - Integrate the Flipper Zero with the Pwnagotchi
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
