@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [mrjosh/helm-ls](https://github.com/mrjosh/helm-ls) - ⎈ Language server for Helm ⎈
 - [ricardomaraschini/oomhero](https://github.com/ricardomaraschini/oomhero) - Kubernetes sidecar for memory usage tracking
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
@@ -473,6 +474,8 @@
 
 ## Others 
 
+- [godbout/Wooshy.docs](https://github.com/godbout/Wooshy.docs) - it's like Alfred but for the UI
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [dexterleng/homerow](https://github.com/dexterleng/homerow) - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
 - [godbout/Scrolla.docs](https://github.com/godbout/Scrolla.docs) - Scroll with Vim motions under macOS
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
