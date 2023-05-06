@@ -499,7 +499,6 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [aeroflotsrc/webapp](https://github.com/aeroflotsrc/webapp) - Web application source code Aeroflot
 - [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [paunin/soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
