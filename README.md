@@ -99,6 +99,9 @@
 
 ## Go 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [dodopizza/tflint-ruleset-dodo](https://github.com/dodopizza/tflint-ruleset-dodo) - Set of linter rules to use for dodo terraform code
+- [stakater/IngressMonitorController](https://github.com/stakater/IngressMonitorController) - A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc.  – [✩Star] if you're using it!
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core
 - [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter) - A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
@@ -249,6 +252,7 @@
 
 ## HCL 
 
+- [Blokje5/validating-terraform-with-conftest](https://github.com/Blokje5/validating-terraform-with-conftest) - Example Code along with the blog post at https://blokje5/dev
 - [ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 - [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate. Github, Gitlab and BitBucket are supported 🇺🇦
 - [terraform-aws-modules/terraform-aws-acm](https://github.com/terraform-aws-modules/terraform-aws-acm) - Terraform module which creates and validates ACM certificate 🇺🇦
@@ -515,6 +519,7 @@
 
 ## Python 
 
+- [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [black-161-flag/libcamera-streamer](https://github.com/black-161-flag/libcamera-streamer) - simple streaming server using picamera2
 - [sbcshop/PiCube](https://github.com/sbcshop/PiCube) - PiCube is a 4x4x4 LED cube HAT for Raspberry Pi with 5V DC operating voltage. PiCube, a monochromatic( Red, Blue, Green) LED with 64, is the latest product in the range of technologically advanced dev
