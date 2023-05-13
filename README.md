@@ -535,7 +535,6 @@
 - [mihaibarbu94/airQualityMonitor](https://github.com/mihaibarbu94/airQualityMonitor) - 
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [SoCo/SoCo](https://github.com/SoCo/SoCo) - SoCo (Sonos Controller) is a Python project that allows you to programmatically control Sonos speakers.
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) - A schema and validator for YAML.
