@@ -238,7 +238,7 @@
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
 - [chartmuseum/helm-push](https://github.com/chartmuseum/helm-push) - Helm plugin to push chart package to ChartMuseum
-- [controlplaneio/netassert](https://github.com/controlplaneio/netassert) - Network security testing for DevSecOps workflows
+- [controlplaneio/netassert](https://github.com/controlplaneio/netassert) - Network security testing for Kubernetes DevSecOps workflows
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [dhilipkumars/redis-sentinel-micro](https://github.com/dhilipkumars/redis-sentinel-micro) - Minimalistic redis sentinel process only to do slave promoton
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
