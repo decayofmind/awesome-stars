@@ -641,6 +641,8 @@
 
 ## Shell 
 
+- [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [NICHOLAS85/z-a-eval](https://github.com/NICHOLAS85/z-a-eval) - A Zsh-Zinit annex (i.e. an extension), which caches arbitrarily slow command output to speed up shell startup.
 - [Karmenzind/monaco-nerd-fonts](https://github.com/Karmenzind/monaco-nerd-fonts) - monaco font patched with extra nerd glyphs
 - [scavlev/dotfiles](https://github.com/scavlev/dotfiles) - 
 - [protosam/kubernetes-manifest-validator](https://github.com/protosam/kubernetes-manifest-validator) - 
