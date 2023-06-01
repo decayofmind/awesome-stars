@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
@@ -299,6 +300,7 @@
 
 ## JavaScript 
 
+- [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [derBroBro/aws-role-editor](https://github.com/derBroBro/aws-role-editor) - An Google Chrome extension to modify the roles of the AWS (Amazon Web Services) Console.
 - [sue445/chrome-gitlab-notifier](https://github.com/sue445/chrome-gitlab-notifier) - Notify Gitlab Project events (Commit, Issue, MergeRequest and Milestone)
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
