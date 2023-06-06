@@ -581,7 +581,7 @@
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [mclarkk/lifxlan](https://github.com/mclarkk/lifxlan) - Python library for accessing LIFX devices locally using the official LIFX LAN protocol.
 - [iver56/clap-detection](https://github.com/iver56/clap-detection) - Simple clap rhythm detection on Raspberry Pi using Csound and Python. Toy example.
-- [aws-solutions/aws-instance-scheduler](https://github.com/aws-solutions/aws-instance-scheduler) - A cross-account and cross-region solution that allows customers to automatically start and stop EC2 and RDS Instances
+- [aws-solutions/instance-scheduler-on-aws](https://github.com/aws-solutions/instance-scheduler-on-aws) - A cross-account and cross-region solution that allows customers to automatically start and stop EC2 and RDS Instances
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [flaper87/pyhelm](https://github.com/flaper87/pyhelm) - Python bindings for Helm
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
