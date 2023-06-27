@@ -485,7 +485,6 @@
 ## Mustache 
 
 - [Strangerxxx/helm-charts](https://github.com/Strangerxxx/helm-charts) - 
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [gabibbo97/charts](https://github.com/gabibbo97/charts) - My helm charts
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [tinted-theming/base16-iterm2](https://github.com/tinted-theming/base16-iterm2) - Base16 for iTerm2
@@ -715,6 +714,7 @@
 ## Smarty 
 
 - [localstack/helm-charts](https://github.com/localstack/helm-charts) - Helm Charts for LocalStack
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [paulczar/conftest-helm-example](https://github.com/paulczar/conftest-helm-example) - example testing helm chart best practices with conftest
 - [IBM/charts](https://github.com/IBM/charts) - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 
