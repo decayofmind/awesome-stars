@@ -73,6 +73,7 @@
 
 ## C++ 
 
+- [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [educ8s/Seeeduino-Xiao-Temperature-Monitor-with-OLED-display](https://github.com/educ8s/Seeeduino-Xiao-Temperature-Monitor-with-OLED-display) - This is a simple temperature monitor using the Seeeduino Xiao board. It uses an SSD1306 OLED display and a DS18B20 temperature sensor
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -101,6 +102,8 @@
 
 ## Go 
 
+- [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+- [barnybug/cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -342,6 +345,7 @@
 
 ## Lua 
 
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim) - Neovim colorscheme using Gnome Adwaita syntax
 - [google/executor.nvim](https://github.com/google/executor.nvim) - 
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
@@ -495,11 +499,13 @@
 
 ## Open Policy Agent 
 
+- [Scalr/sample-tf-opa-policies](https://github.com/Scalr/sample-tf-opa-policies) - 
 - [swade1987/deprek8ion](https://github.com/swade1987/deprek8ion) - Rego policies to monitor Kubernetes APIs deprecations.
 - [gbrindisi/dockerfile-security](https://github.com/gbrindisi/dockerfile-security) - A collection of OPA rules to statically analyze Dockerfiles to improve security
 
 ## Others 
 
+- [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [godbout/Wooshy.docs](https://github.com/godbout/Wooshy.docs) - it's like Alfred but for the UI
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
