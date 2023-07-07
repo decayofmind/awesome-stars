@@ -9,6 +9,7 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
 - [Fennel](#fennel)
@@ -89,6 +90,10 @@
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
+## Clojure 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
 ## Crystal 
 
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
@@ -104,6 +109,7 @@
 
 ## Go 
 
+- [xchapter7x/hcunit](https://github.com/xchapter7x/hcunit) - Helm Chart Unit: helps to unit test rendering of your templates using policies
 - [kvaps/kube-fencing](https://github.com/kvaps/kube-fencing) - Fencing implementation for Kubernetes
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [snyk/snyk-ls](https://github.com/snyk/snyk-ls) - Language Server using LSP meant to be used by IDEs as Snyk Backend for Frontends
