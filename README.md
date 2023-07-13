@@ -11,7 +11,6 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Crystal](#crystal)
-- [Dockerfile](#dockerfile)
 - [Fennel](#fennel)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -97,10 +96,6 @@
 ## Crystal 
 
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
-
-## Dockerfile 
-
-- [wiremock/wiremock-docker](https://github.com/wiremock/wiremock-docker) - Wiremock Docker image
 
 ## Fennel 
 
@@ -313,6 +308,7 @@
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [rundeck-plugins/vault-storage](https://github.com/rundeck-plugins/vault-storage) - Storage plugin for Rundeck for storing data in Vault
 - [jenkinsci/kubernetes-plugin](https://github.com/jenkinsci/kubernetes-plugin) - Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment
+- [wiremock/wiremock-docker](https://github.com/wiremock/wiremock-docker) - Wiremock Docker image
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [jenkinsci/plugin-installation-manager-tool](https://github.com/jenkinsci/plugin-installation-manager-tool) - Plugin Manager CLI tool for Jenkins
 - [GroovyLanguageServer/groovy-language-server](https://github.com/GroovyLanguageServer/groovy-language-server) - A language server for Groovy
