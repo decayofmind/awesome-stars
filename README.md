@@ -707,7 +707,7 @@
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
 - [powerupcloud/aws-eks-rhel-workers](https://github.com/powerupcloud/aws-eks-rhel-workers) - Running Red Hat Enterprise Linux as EKS Worker Nodes
 - [davidparsson/zsh-pyenv-lazy](https://github.com/davidparsson/zsh-pyenv-lazy) - A zsh plugin for lazy loading of pyenv
-- [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
+- [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [laggardkernel/zsh-iterm2](https://github.com/laggardkernel/zsh-iterm2) - Pack iTerm2 shell integration scripts as a ZSH plugin
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
 - [kabachook/k8s-security](https://github.com/kabachook/k8s-security) - Kubernetes security notes and best practices
