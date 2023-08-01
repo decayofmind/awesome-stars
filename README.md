@@ -28,6 +28,7 @@
 - [Objective-C](#objective-c)
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
+- [PHP](#php)
 - [Perl](#perl)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -291,7 +292,6 @@
 
 - [meoker/pagger](https://github.com/meoker/pagger) - Sub-GHz generators for restaurants/kiosks paging systems compatible with the Flipper Zero.
 - [frekel/Pimoroni-PanTilt-Hat-WebInterface](https://github.com/frekel/Pimoroni-PanTilt-Hat-WebInterface) - This is a bootstrap webinterface for the Pimoroni PanTilt Hat
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [chrstphrknwtn/grid-clock-screensaver](https://github.com/chrstphrknwtn/grid-clock-screensaver) - Grid clock macOS screensaver
 - [nophead/EnviroPlusWeb](https://github.com/nophead/EnviroPlusWeb) - Web interface for Enviro+ sensor board plugged into a Raspberry PI
 - [hjacobs/kube-resource-report](https://github.com/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
@@ -547,6 +547,10 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [spotify/cassandra-reaper](https://github.com/spotify/cassandra-reaper) - Software to run automated repairs of cassandra
+
+## PHP 
+
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
 ## Perl 
 
