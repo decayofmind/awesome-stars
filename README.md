@@ -675,6 +675,7 @@
 
 ## Shell 
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [tablexi/asdf-flux2](https://github.com/tablexi/asdf-flux2) - 
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl
 - [gnachman/iTerm2-shell-integration](https://github.com/gnachman/iTerm2-shell-integration) - Shell integration and utilities for iTerm2
