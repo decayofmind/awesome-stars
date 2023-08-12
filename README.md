@@ -209,7 +209,7 @@
 - [aws/aws-node-termination-handler](https://github.com/aws/aws-node-termination-handler) - Gracefully handle EC2 instance shutdown within Kubernetes
 - [giantswarm/vault-exporter](https://github.com/giantswarm/vault-exporter) - A Prometheus metrics exporter for Hashicorp's Vault
 - [prometheus/consul_exporter](https://github.com/prometheus/consul_exporter) - Exporter for Consul metrics
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [peimanja/artifactory_exporter](https://github.com/peimanja/artifactory_exporter) - JFrog Artifactory Prometheus Exporter written in Go
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
