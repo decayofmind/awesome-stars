@@ -76,6 +76,7 @@
 
 ## C++ 
 
+- [thefipster/esphome-mmwave-sensors](https://github.com/thefipster/esphome-mmwave-sensors) - ESPHome integration for mmWave Sensors from Seeed Studio
 - [uru-card/uru-card](https://github.com/uru-card/uru-card) - Arduino based firmware for FIDO2 Authenticator
 - [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
@@ -494,7 +495,6 @@
 ## Makefile 
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [GloballogicPractices/kong-custom-plugin](https://github.com/GloballogicPractices/kong-custom-plugin) - Kong API Gateway Custom plugin Hello World Sample
 
@@ -526,6 +526,7 @@
 - [dexterleng/homerow](https://github.com/dexterleng/homerow) - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
 - [godbout/Scrolla.docs](https://github.com/godbout/Scrolla.docs) - Scroll with Vim motions under macOS
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [Speexvocon/FlipperZeroHeaderExtender](https://github.com/Speexvocon/FlipperZeroHeaderExtender) - Flipper Zero Header Extender Gerber Files
 - [Tundrak/IPTV-Italia](https://github.com/Tundrak/IPTV-Italia) - Collezione di link a canali TV e Radio italiani visibili e ascoltabili da Internet con un media player
@@ -749,7 +750,7 @@
 - [CodySchrank/gSwitch](https://github.com/CodySchrank/gSwitch) - macOS menu bar app that allows control over the gpu on dual gpu macbooks
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter) - macOS tool to limit maximum charging percentage
+- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
 - [xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll) - A mac app to help monitor your app badges!
 - [yulrizka/osx-push-to-talk](https://github.com/yulrizka/osx-push-to-talk) - OSX status bar application that mute microphone on user key press
 - [Kevin-De-Koninck/Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner
