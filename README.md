@@ -712,7 +712,6 @@
 - [aws/aws-for-fluent-bit](https://github.com/aws/aws-for-fluent-bit) - The source of the amazon/aws-for-fluent-bit container image
 - [kube-aws/kube-spot-termination-notice-handler](https://github.com/kube-aws/kube-spot-termination-notice-handler) - A Kubernetes DaemonSet to gracefully delete pods 2 minutes before an EC2 Spot Instance gets terminated
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
-- [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 - [gruntwork-io/pre-commit](https://github.com/gruntwork-io/pre-commit) - A collection of pre-commit hooks used by Gruntwork tools
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
