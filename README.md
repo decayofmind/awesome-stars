@@ -107,6 +107,7 @@
 
 ## Go 
 
+- [aws/aws-network-policy-agent](https://github.com/aws/aws-network-policy-agent) - 
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
 - [xchapter7x/hcunit](https://github.com/xchapter7x/hcunit) - Helm Chart Unit: helps to unit test rendering of your templates using policies
