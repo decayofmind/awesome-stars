@@ -30,6 +30,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PureBasic](#purebasic)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -107,6 +108,7 @@
 
 ## Go 
 
+- [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations
 - [aws/aws-network-policy-agent](https://github.com/aws/aws-network-policy-agent) - 
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
@@ -157,7 +159,6 @@
 - [aws/amazon-ec2-metadata-mock](https://github.com/aws/amazon-ec2-metadata-mock) - A tool to simulate Amazon EC2 instance metadata
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller) - A GitOps Terraform controller for Kubernetes
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [danvk/aoc2021](https://github.com/danvk/aoc2021) - Advent of Code 2021, this time in Go
@@ -521,6 +522,7 @@
 
 ## Others 
 
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [matwerber1/aws-athena-s3-access-log-queries](https://github.com/matwerber1/aws-athena-s3-access-log-queries) - Amazon Athena SQL queries that may be used with S3 server access logs
 - [rung/threat-matrix-cicd](https://github.com/rung/threat-matrix-cicd) - Threat matrix for CI/CD Pipeline
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
@@ -566,6 +568,10 @@
 ## Perl 
 
 - [yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx
+
+## PureBasic 
+
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 
 ## Python 
 
