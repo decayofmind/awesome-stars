@@ -539,7 +539,6 @@
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [godbout/Wooshy.docs](https://github.com/godbout/Wooshy.docs) - it's like Alfred but for the UI
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [dexterleng/homerow](https://github.com/dexterleng/homerow) - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse.
 - [godbout/Scrolla.docs](https://github.com/godbout/Scrolla.docs) - Scroll with Vim motions under macOS
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
@@ -709,6 +708,7 @@
 - [gnachman/iTerm2-shell-integration](https://github.com/gnachman/iTerm2-shell-integration) - Shell integration and utilities for iTerm2
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [NICHOLAS85/z-a-eval](https://github.com/NICHOLAS85/z-a-eval) - A Zsh-Zinit annex (i.e. an extension), which caches arbitrarily slow command output to speed up shell startup.
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [Karmenzind/monaco-nerd-fonts](https://github.com/Karmenzind/monaco-nerd-fonts) - monaco font patched with extra nerd glyphs
 - [scavlev/dotfiles](https://github.com/scavlev/dotfiles) - 
 - [protosam/kubernetes-manifest-validator](https://github.com/protosam/kubernetes-manifest-validator) - 
