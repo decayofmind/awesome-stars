@@ -333,6 +333,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [rodrigozr/ProjectForecaster](https://github.com/rodrigozr/ProjectForecaster) - Forecast probabilities of a project's effort and duration using Monte Carlo simulations
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [derBroBro/aws-role-editor](https://github.com/derBroBro/aws-role-editor) - An Google Chrome extension to modify the roles of the AWS (Amazon Web Services) Console.
@@ -583,6 +584,7 @@
 
 ## Python 
 
+- [Lucas-C/pre-commit-hooks](https://github.com/Lucas-C/pre-commit-hooks) - git pre-commit hooks
 - [aws-samples/aws-secrets-manager-rotation-lambdas](https://github.com/aws-samples/aws-secrets-manager-rotation-lambdas) - Contains Lambda functions to be used for automatic rotation of secrets stored in AWS Secrets Manager
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
