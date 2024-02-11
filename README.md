@@ -25,6 +25,7 @@
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Mustache](#mustache)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
@@ -48,6 +49,7 @@
 
 ## C 
 
+- [Z3BRO/Flipper-Zero-RGB](https://github.com/Z3BRO/Flipper-Zero-RGB) - A guide to do the RGB Backlight mod on your Flipper Zero
 - [limengdu/SeeedStudio-XIAO-ESP32S3-Sense-camera](https://github.com/limengdu/SeeedStudio-XIAO-ESP32S3-Sense-camera) - 
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [mrjosh/helm-ls](https://github.com/mrjosh/helm-ls) - ⎈ Language server for Helm ⎈
@@ -107,6 +109,7 @@
 
 ## Go 
 
+- [tomnz/button-shim-go](https://github.com/tomnz/button-shim-go) - Go library for Pimoroni's Button SHIM
 - [MartinSimango/kubectl-plugin_completion](https://github.com/MartinSimango/kubectl-plugin_completion) - A kubectl plugin for allowing kubectl plugin completions
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
 - [knight42/kubectl-blame](https://github.com/knight42/kubectl-blame) - Show who edited resource fields.
@@ -521,6 +524,10 @@
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [tinted-theming/base16-iterm2](https://github.com/tinted-theming/base16-iterm2) - Base16 for iTerm2
 
+## Nix 
+
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+
 ## Objective-C 
 
 - [georgesofianosgr/PSP-CSO-Converter](https://github.com/georgesofianosgr/PSP-CSO-Converter) - ISO To CSO Converter app (and reverse) for macOS
@@ -726,7 +733,6 @@
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [halcyon/asdf-java](https://github.com/halcyon/asdf-java) - A Java plugin for asdf-vm.
 - [corneliusweig/konfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
