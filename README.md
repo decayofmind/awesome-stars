@@ -171,7 +171,7 @@
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
-- [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller) - A GitOps Terraform controller for Kubernetes
+- [flux-iac/tofu-controller](https://github.com/flux-iac/tofu-controller) - A GitOps OpenTofu and Terraform controller for Flux
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [danvk/aoc2021](https://github.com/danvk/aoc2021) - Advent of Code 2021, this time in Go
 - [deckhouse/k8s-image-availability-exporter](https://github.com/deckhouse/k8s-image-availability-exporter) - Alert if an image used in Kubernetes cannot be pulled from container registry
@@ -532,7 +532,7 @@
 
 ## Nix 
 
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 
 ## Objective-C 
 
