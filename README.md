@@ -816,7 +816,7 @@
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [CoolerMasterTechnology/Pi-Tool](https://github.com/CoolerMasterTechnology/Pi-Tool) - Overclocking and button-remapping utility for the Raspberry Pi 4, designed for Pi Case 40
-- [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server) - Ansible Language Server
+- [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server) - 🚧 Ansible Language Server codebase is now included in vscode-ansible repository
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [Skatteetaten/cognito-eks](https://github.com/Skatteetaten/cognito-eks) - 
 - [neoclide/coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim, fork of vscode-python
