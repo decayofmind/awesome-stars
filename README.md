@@ -773,7 +773,7 @@
 - [groundnuty/k8s-wait-for](https://github.com/groundnuty/k8s-wait-for) - A simple script that allows to wait for a k8s service, job or pods to enter a desired state
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-- [tinted-theming/base16-fzf](https://github.com/tinted-theming/base16-fzf) - base16 colorschemes for fzf
+- [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [hubwub/dotfiles](https://github.com/hubwub/dotfiles) - ⚫️
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
