@@ -345,7 +345,7 @@
 - [rodrigozr/ProjectForecaster](https://github.com/rodrigozr/ProjectForecaster) - Forecast probabilities of a project's effort and duration using Monte Carlo simulations
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [derBroBro/aws-role-editor](https://github.com/derBroBro/aws-role-editor) - An Google Chrome extension to modify the roles of the AWS (Amazon Web Services) Console.
-- [sue445/chrome-gitlab-notifier](https://github.com/sue445/chrome-gitlab-notifier) - Notify Gitlab Project events (Commit, Issue, MergeRequest and Milestone)
+- [sue445/chrome-tanuki-notifier](https://github.com/sue445/chrome-tanuki-notifier) - Notify Gitlab Project events (Commit, Issue, MergeRequest and Milestone)
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [martinkangur/shelly](https://github.com/martinkangur/shelly) - 
 - [ikatyang/tree-sitter-yaml](https://github.com/ikatyang/tree-sitter-yaml) - YAML grammar for tree-sitter
