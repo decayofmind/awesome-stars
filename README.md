@@ -384,6 +384,7 @@
 
 ## Lua 
 
+- [alpha2phi/modern-neovim](https://github.com/alpha2phi/modern-neovim) - Crafting a modernized development environment with Neovim.
 - [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) - 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
 - [Verf/deepwhite.nvim](https://github.com/Verf/deepwhite.nvim) - DeepWhite colorscheme for Neovim.
