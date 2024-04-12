@@ -111,6 +111,7 @@
 
 ## Go 
 
+- [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [tomnz/button-shim-go](https://github.com/tomnz/button-shim-go) - Go library for Pimoroni's Button SHIM
 - [MartinSimango/kubectl-plugin_completion](https://github.com/MartinSimango/kubectl-plugin_completion) - A kubectl plugin for allowing kubectl plugin completions
