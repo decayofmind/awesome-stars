@@ -150,7 +150,7 @@
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [ricardomaraschini/oomhero](https://github.com/ricardomaraschini/oomhero) - Kubernetes sidecar for memory usage tracking
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
 - [sukeesh/k8s-job-notify](https://github.com/sukeesh/k8s-job-notify) - Kuberenets Job/CronJob Notifier
 - [joe-elliott/cert-exporter](https://github.com/joe-elliott/cert-exporter) - A Prometheus exporter that publishes cert expirations on disk and in Kubernetes secrets
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
@@ -645,7 +645,6 @@
 - [pimoroni/max30105-python](https://github.com/pimoroni/max30105-python) - Python library for the Pimoroni MAX30105 breakout
 - [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
 - [tijmenvandenbrink/enviroplus_exporter](https://github.com/tijmenvandenbrink/enviroplus_exporter) - Prometheus exporter for enviroplus module by Pimoroni
-- [pimoroni/enviroplus-python](https://github.com/pimoroni/enviroplus-python) - Python library for the Enviro+ environmental monitoring board
 - [tutRPi/Raspberry-Pi-Gas-Sensor-MQ](https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ) - Raspberry Pi Library for several MQ Gas Sensors (MQ-2, MQ-3, etc.)
 - [hjacobs/kube-janitor](https://github.com/hjacobs/kube-janitor) - Clean up (delete) Kubernetes resources after a configured TTL (time to live)
 - [pimoroni/bme680-python](https://github.com/pimoroni/bme680-python) - Python library for the BME680 gas, temperature, humidity and pressure sensor.
@@ -768,6 +767,7 @@
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
 - [powerupcloud/aws-eks-rhel-workers](https://github.com/powerupcloud/aws-eks-rhel-workers) - Running Red Hat Enterprise Linux as EKS Worker Nodes
+- [pimoroni/enviroplus-python](https://github.com/pimoroni/enviroplus-python) - Python library for the Enviro+ environmental monitoring board
 - [davidparsson/zsh-pyenv-lazy](https://github.com/davidparsson/zsh-pyenv-lazy) - A zsh plugin for lazy loading of pyenv
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [laggardkernel/zsh-iterm2](https://github.com/laggardkernel/zsh-iterm2) - Pack iTerm2 shell integration scripts as a ZSH plugin
