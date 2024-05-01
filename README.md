@@ -48,6 +48,7 @@
 
 ## C 
 
+- [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [gl-sergei/u2f-token](https://github.com/gl-sergei/u2f-token) - u2f token firmware for stm32f103 and efm32hg boards
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 - [Z3BRO/Flipper-Zero-RGB](https://github.com/Z3BRO/Flipper-Zero-RGB) - A guide to do the RGB Backlight mod on your Flipper Zero
