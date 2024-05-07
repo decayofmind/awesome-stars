@@ -380,7 +380,7 @@
 ## Jinja 
 
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
-- [openedx/configuration](https://github.com/openedx/configuration) - A collection of edx configuration scripts and utilities that edx.org uses to deploy openedx.
+- [openedx-unsupported/configuration](https://github.com/openedx-unsupported/configuration) - A collection of edx configuration scripts and utilities that edx.org uses to deploy openedx.
 
 ## Jupyter Notebook 
 
