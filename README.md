@@ -340,7 +340,7 @@
 - [wiremock/wiremock-docker](https://github.com/wiremock/wiremock-docker) - Wiremock Docker image
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [jenkinsci/plugin-installation-manager-tool](https://github.com/jenkinsci/plugin-installation-manager-tool) - Plugin Manager CLI tool for Jenkins
-- [GroovyLanguageServer/groovy-language-server](https://github.com/GroovyLanguageServer/groovy-language-server) - A language server for Groovy
+- [GroovyLanguageServer/groovy-language-server](https://github.com/GroovyLanguageServer/groovy-language-server) - A language server for Groovy — designed for Moonshine IDE, but may be useful in other environments
 - [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
 
 ## JavaScript 
