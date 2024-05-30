@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [dragondrop-cloud/cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge) - Codify resources outside of Terraform control, detect drift, estimate cloud costs, identify security risks, and more. "Terraform best practices as a Pull Request."
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -294,6 +295,7 @@
 
 ## HCL 
 
+- [terraform-aws-modules/terraform-aws-eks-pod-identity](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity) - Terraform module to create AWS EKS Pod Identity resources 🇺🇦
 - [lgallard/terraform-aws-backup](https://github.com/lgallard/terraform-aws-backup) - Terraform module to create AWS Backup plans. AWS Backup is a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services (EBS volumes, RDS databa
 - [cloudposse/terraform-aws-backup](https://github.com/cloudposse/terraform-aws-backup) - Terraform module to provision AWS Backup, a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services such as EBS volumes, RDS databases, Dynam
 - [terraform-aws-modules/terraform-aws-ec2-instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Terraform module to create AWS EC2 instance(s) resources 🇺🇦
@@ -751,7 +753,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
-- [web3promax/bash_colors](https://github.com/web3promax/bash_colors) - The library defines verbal constants and functions for terminal colors.
+- [mercuriev/bash-colors](https://github.com/mercuriev/bash-colors) - The library defines verbal constants and functions for terminal colors.
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [asdf-community/asdf-kubectl](https://github.com/asdf-community/asdf-kubectl) - Kubectl plugin for the asdf version manager
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
@@ -815,6 +817,7 @@
 
 ## TypeScript 
 
+- [gidongkwon/logseq-plugin-tags](https://github.com/gidongkwon/logseq-plugin-tags) - A logseq plugin that lets you find #tags
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
