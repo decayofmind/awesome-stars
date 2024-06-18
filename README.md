@@ -558,6 +558,7 @@
 
 ## Others 
 
+- [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [drkhrse/drkhrse_miyoo_bezels](https://github.com/drkhrse/drkhrse_miyoo_bezels) - My 4:3 bezels for Retroarch (made for the Miyoo Mini+)
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [matwerber1/aws-athena-s3-access-log-queries](https://github.com/matwerber1/aws-athena-s3-access-log-queries) - Amazon Athena SQL queries that may be used with S3 server access logs
