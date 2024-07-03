@@ -394,6 +394,7 @@
 
 ## Lua 
 
+- [seanbreckenridge/gitsigns-yadm.nvim](https://github.com/seanbreckenridge/gitsigns-yadm.nvim) - gitsigns _on_attach_pre hook to show git decorations for files tracked by yadm
 - [laytan/cloak.nvim](https://github.com/laytan/cloak.nvim) - Cloak allows you to overlay *'s over defined patterns in defined files.
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [rshkarin/mason-nvim-lint](https://github.com/rshkarin/mason-nvim-lint) - Extension to mason.nvim that makes it easier to use nvim-lint with mason.nvim
