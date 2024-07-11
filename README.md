@@ -364,7 +364,6 @@
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
-- [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [moritzmhmk/homebridge-camera-rpi](https://github.com/moritzmhmk/homebridge-camera-rpi) - raspberry pi camera plugin for homebridge
 - [rxseger/homebridge-bme280](https://github.com/rxseger/homebridge-bme280) - BME280 temperature/humidity/pressure sensor bridge for Homebridge: https://github.com/nfarina/homebridge
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -644,6 +643,7 @@
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) - A schema and validator for YAML.
 - [linshuqin329/UPS-Lite](https://github.com/linshuqin329/UPS-Lite) - 
 - [pimoroni/grow-python](https://github.com/pimoroni/grow-python) - Python libs for controlling the Grow HATs
+- [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [python-versioneer/python-versioneer](https://github.com/python-versioneer/python-versioneer) - version-string management for VCS-controlled trees
 - [ThePiHut/rgbxmastree](https://github.com/ThePiHut/rgbxmastree) - Code examples for the RGB Xmas Tree
 - [liske/python-apds9960](https://github.com/liske/python-apds9960) - Python APDS-9960 Library
