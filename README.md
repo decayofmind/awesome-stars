@@ -561,6 +561,7 @@
 
 ## Others 
 
+- [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [adidas/adidas-devops-maturity-framework](https://github.com/adidas/adidas-devops-maturity-framework) - The DevOps maturity framework was created by adidas as a guide for the first DevOps cup to support the teams on their DevOps transformation journey.
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [drkhrse/drkhrse_miyoo_bezels](https://github.com/drkhrse/drkhrse_miyoo_bezels) - My 4:3 bezels for Retroarch (made for the Miyoo Mini+)
@@ -816,6 +817,8 @@
 
 ## Swift 
 
+- [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [mjrusso/scoot](https://github.com/mjrusso/scoot) - Keyboard-driven MacOS cursor actuator
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [aahung/Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
