@@ -135,7 +135,7 @@
 - [xchapter7x/hcunit](https://github.com/xchapter7x/hcunit) - Helm Chart Unit: helps to unit test rendering of your templates using policies
 - [kvaps/kube-fencing](https://github.com/kvaps/kube-fencing) - Fencing implementation for Kubernetes
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-- [snyk/snyk-ls](https://github.com/snyk/snyk-ls) - Language Server using LSP meant to be used by IDEs as Snyk Backend for Frontends
+- [snyk/snyk-ls](https://github.com/snyk/snyk-ls) - Language Server used by IDEs as Snyk Backend for Frontends
 - [ribbybibby/ssl_exporter](https://github.com/ribbybibby/ssl_exporter) - Exports Prometheus metrics for TLS certificates
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [barnybug/cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
