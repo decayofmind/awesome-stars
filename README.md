@@ -546,7 +546,7 @@
 - [Strangerxxx/helm-charts](https://github.com/Strangerxxx/helm-charts) - 
 - [gabibbo97/charts](https://github.com/gabibbo97/charts) - My helm charts
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
-- [tinted-theming/base16-iterm2](https://github.com/tinted-theming/base16-iterm2) - Base16 for iTerm2
+- [tinted-theming/tinted-iterm2](https://github.com/tinted-theming/tinted-iterm2) - Base16 for iTerm2
 
 ## Objective-C 
 
