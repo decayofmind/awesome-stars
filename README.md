@@ -546,7 +546,6 @@
 - [Strangerxxx/helm-charts](https://github.com/Strangerxxx/helm-charts) - 
 - [gabibbo97/charts](https://github.com/gabibbo97/charts) - My helm charts
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
-- [tinted-theming/tinted-iterm2](https://github.com/tinted-theming/tinted-iterm2) - Base16 for iTerm2
 
 ## Objective-C 
 
@@ -787,6 +786,7 @@
 - [pimoroni/enviroplus-python](https://github.com/pimoroni/enviroplus-python) - Python library for the Enviro+ environmental monitoring board
 - [davidparsson/zsh-pyenv-lazy](https://github.com/davidparsson/zsh-pyenv-lazy) - A zsh plugin for lazy loading of pyenv
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
+- [tinted-theming/tinted-iterm2](https://github.com/tinted-theming/tinted-iterm2) - Base16 for iTerm2
 - [laggardkernel/zsh-iterm2](https://github.com/laggardkernel/zsh-iterm2) - Pack iTerm2 shell integration scripts as a ZSH plugin
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
 - [kabachook/k8s-security](https://github.com/kabachook/k8s-security) - Kubernetes security notes and best practices
