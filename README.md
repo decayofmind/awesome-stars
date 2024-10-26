@@ -854,7 +854,7 @@
 - [Skatteetaten/cognito-eks](https://github.com/Skatteetaten/cognito-eks) - 
 - [neoclide/coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim, fork of vscode-python
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [Sunoo/homebridge-camera-ffmpeg](https://github.com/Sunoo/homebridge-camera-ffmpeg) - Homebridge Plugin Providing FFmpeg-based Camera Support
+- [homebridge-plugins/homebridge-camera-ffmpeg](https://github.com/homebridge-plugins/homebridge-camera-ffmpeg) - Homebridge Plugin Providing FFmpeg-based Camera Support
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
