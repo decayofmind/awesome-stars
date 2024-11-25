@@ -88,7 +88,7 @@
 - [educ8s/Seeeduino-Xiao-Temperature-Monitor-with-OLED-display](https://github.com/educ8s/Seeeduino-Xiao-Temperature-Monitor-with-OLED-display) - This is a simple temperature monitor using the Seeeduino Xiao board. It uses an SSD1306 OLED display and a DS18B20 temperature sensor
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [pimoroni/mlx90640-library](https://github.com/pimoroni/mlx90640-library) - Python library for the MLX90640 thermal camera
 - [popcornmix/omxplayer](https://github.com/popcornmix/omxplayer) - omxplayer
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -130,7 +130,6 @@
 - [knight42/kubectl-blame](https://github.com/knight42/kubectl-blame) - Show who edited resource fields.
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
-- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations
 - [aws/aws-network-policy-agent](https://github.com/aws/aws-network-policy-agent) - 
@@ -307,6 +306,7 @@
 - [lgallard/terraform-aws-backup](https://github.com/lgallard/terraform-aws-backup) - Terraform module to create AWS Backup plans. AWS Backup is a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services (EBS volumes, RDS databa
 - [cloudposse/terraform-aws-backup](https://github.com/cloudposse/terraform-aws-backup) - Terraform module to provision AWS Backup, a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services such as EBS volumes, RDS databases, Dynam
 - [terraform-aws-modules/terraform-aws-ec2-instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - Terraform module to create AWS EC2 instance(s) resources 🇺🇦
+- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module to create AWS IAM resources 🇺🇦
 - [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [terraform-aws-modules/terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module to create AWS RDS resources 🇺🇦
