@@ -48,6 +48,7 @@
 
 ## C 
 
+- [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [gl-sergei/u2f-token](https://github.com/gl-sergei/u2f-token) - u2f token firmware for stm32f103 and efm32hg boards
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
@@ -567,7 +568,6 @@
 
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [adidas/adidas-devops-maturity-framework](https://github.com/adidas/adidas-devops-maturity-framework) - The DevOps maturity framework was created by adidas as a guide for the first DevOps cup to support the teams on their DevOps transformation journey.
-- [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [drkhrse/drkhrse_miyoo_bezels](https://github.com/drkhrse/drkhrse_miyoo_bezels) - My 4:3 bezels for Retroarch (made for the Miyoo Mini+)
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [matwerber1/aws-athena-s3-access-log-queries](https://github.com/matwerber1/aws-athena-s3-access-log-queries) - Amazon Athena SQL queries that may be used with S3 server access logs
@@ -714,6 +714,7 @@
 
 ## Rust 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
