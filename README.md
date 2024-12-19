@@ -543,6 +543,7 @@
 
 ## Makefile 
 
+- [mikker/wezterm-icon](https://github.com/mikker/wezterm-icon) - An alternative MacOS application icon for
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [GloballogicPractices/kong-custom-plugin](https://github.com/GloballogicPractices/kong-custom-plugin) - Kong API Gateway Custom plugin Hello World Sample
