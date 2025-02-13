@@ -89,7 +89,7 @@
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [educ8s/Seeeduino-Xiao-Temperature-Monitor-with-OLED-display](https://github.com/educ8s/Seeeduino-Xiao-Temperature-Monitor-with-OLED-display) - This is a simple temperature monitor using the Seeeduino Xiao board. It uses an SSD1306 OLED display and a DS18B20 temperature sensor
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
-- [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
+- [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [pimoroni/mlx90640-library](https://github.com/pimoroni/mlx90640-library) - Python library for the MLX90640 thermal camera
 - [popcornmix/omxplayer](https://github.com/popcornmix/omxplayer) - omxplayer
