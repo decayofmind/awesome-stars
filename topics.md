@@ -1471,7 +1471,7 @@
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [nat-henderson/terraform-provider-dominos](https://github.com/nat-henderson/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
 - [awslabs/amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
-- [asdf-community/asdf-kubectl](https://github.com/asdf-community/asdf-kubectl) - Kubectl plugin for the asdf version manager
+- [asdf-community/asdf-kubectl](https://github.com/asdf-community/asdf-kubectl) - Kubectl plugin for the asdf version manager [maintainer=@DustinChaloupka]
 - [localstack/helm-charts](https://github.com/localstack/helm-charts) - Helm Charts for LocalStack
 - [kubernetes-sigs/cluster-capacity](https://github.com/kubernetes-sigs/cluster-capacity) - Cluster capacity analysis
 - [cicdteam/terraform-hcloud-k3s](https://github.com/cicdteam/terraform-hcloud-k3s) - Kubernetes (k3s) Terraform installer for Hetzner Cloud
