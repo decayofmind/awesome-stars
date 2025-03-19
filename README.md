@@ -38,6 +38,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Swift](#swift)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -758,7 +759,6 @@
 
 ## Scheme 
 
-- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 
 ## Shell 
@@ -852,6 +852,10 @@
 - [Pyroh/Fluor](https://github.com/Pyroh/Fluor) - A handy tool for macOS allowing you to switch Fn keys' mode based on active application.
 - [kcrawford/dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+
+## Tree-sitter Query 
+
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## TypeScript 
 
