@@ -1332,6 +1332,9 @@
 
 ## others 
 
+- [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian
+- [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through br
+- [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
