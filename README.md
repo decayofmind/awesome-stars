@@ -34,7 +34,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
-- [Scheme](#scheme)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Swift](#swift)
@@ -757,10 +756,6 @@
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [tumblr/collins](https://github.com/tumblr/collins) - groovy kind of love
 
-## Scheme 
-
-- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
-
 ## Shell 
 
 - [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
@@ -856,6 +851,7 @@
 ## Tree-sitter Query 
 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 
 ## TypeScript 
 
