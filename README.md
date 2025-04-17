@@ -606,6 +606,7 @@
 - [instrumenta/kubernetes-json-schema](https://github.com/instrumenta/kubernetes-json-schema) - Schemas for every version of every object in every version of Kubernetes
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [southbridgeio/kube-security](https://github.com/southbridgeio/kube-security) - Repo with demo for Moscow DevopsConf2019
+- [openstack/openstack-helm-infra](https://github.com/openstack/openstack-helm-infra) - Repository for OpenStack Helm infrastructure-related code. Mirror of code maintained at opendev.org.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
@@ -807,7 +808,6 @@
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
 - [kabachook/k8s-security](https://github.com/kabachook/k8s-security) - Kubernetes security notes and best practices
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
-- [openstack/openstack-helm-infra](https://github.com/openstack/openstack-helm-infra) - Repository for OpenStack Helm infrastructure-related code. Mirror of code maintained at opendev.org.
 - [balena-labs-projects/balena-sense](https://github.com/balena-labs-projects/balena-sense) - Take readings from a BME680 or similar sensor on a Raspberry Pi, store with InfluxDB and view with Grafana
 - [groundnuty/k8s-wait-for](https://github.com/groundnuty/k8s-wait-for) - A simple script that allows to wait for a k8s service, job or pods to enter a desired state
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
