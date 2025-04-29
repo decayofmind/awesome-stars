@@ -716,7 +716,7 @@
 
 ## Ruby 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [teamookla/homebrew-speedtest](https://github.com/teamookla/homebrew-speedtest) - Homebrew formulae for Speedtest
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [coinbase/terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
@@ -760,7 +760,7 @@
 
 ## Shell 
 
-- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
