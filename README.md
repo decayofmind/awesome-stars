@@ -332,7 +332,6 @@
 
 ## HTML 
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [meoker/pagger](https://github.com/meoker/pagger) - Sub-GHz generators for restaurants/kiosks paging systems compatible with the Flipper Zero.
 - [frekel/Pimoroni-PanTilt-Hat-WebInterface](https://github.com/frekel/Pimoroni-PanTilt-Hat-WebInterface) - This is a bootstrap webinterface for the Pimoroni PanTilt Hat
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -639,6 +638,7 @@
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [rthalley/dnspython](https://github.com/rthalley/dnspython) - a powerful DNS toolkit for python
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
