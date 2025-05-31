@@ -606,7 +606,7 @@
 - [instrumenta/kubernetes-json-schema](https://github.com/instrumenta/kubernetes-json-schema) - Schemas for every version of every object in every version of Kubernetes
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [southbridgeio/kube-security](https://github.com/southbridgeio/kube-security) - Repo with demo for Moscow DevopsConf2019
-- [openstack/openstack-helm-infra](https://github.com/openstack/openstack-helm-infra) - Repository for OpenStack Helm infrastructure-related code. Mirror of code maintained at opendev.org.
+- [openstack-archive/openstack-helm-infra](https://github.com/openstack-archive/openstack-helm-infra) - Repository for OpenStack Helm infrastructure-related code. Mirror of code maintained at opendev.org.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
