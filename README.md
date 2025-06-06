@@ -789,7 +789,7 @@
 - [asdf-community/asdf-kubectl](https://github.com/asdf-community/asdf-kubectl) - Kubectl plugin for the asdf version manager [maintainer=@DustinChaloupka]
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [diwakar-s-maurya/helm-git](https://github.com/diwakar-s-maurya/helm-git) - use private git repo as helm repo
-- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories
 - [smashedtoatoms/asdf-postgres](https://github.com/smashedtoatoms/asdf-postgres) - asdf plugin for Postgres
 - [kiurchv/asdf.plugin.zsh](https://github.com/kiurchv/asdf.plugin.zsh) - Zsh integration and completions for asdf
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
