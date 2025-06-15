@@ -56,7 +56,6 @@
 - [Z3BRO/Flipper-Zero-RGB](https://github.com/Z3BRO/Flipper-Zero-RGB) - Complication of information about Flipper Zero RGB Mods
 - [limengdu/SeeedStudio-XIAO-ESP32S3-Sense-camera](https://github.com/limengdu/SeeedStudio-XIAO-ESP32S3-Sense-camera) - 
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-- [mrjosh/helm-ls](https://github.com/mrjosh/helm-ls) - ⎈ Language server for Helm ⎈
 - [0015/ESP32Berry](https://github.com/0015/ESP32Berry) - ESP32Berry Project
 - [zacharyweiss/magspoof_flipper](https://github.com/zacharyweiss/magspoof_flipper) - Port of Samy Kamkar's MagSpoof project (http://samy.pl/magspoof/) to the Flipper Zero. Enables wireless emulation of magstripe data, primarily over GPIO, with additional experimental internal TX.
 - [Matt-London/pwnagotchi-flipper](https://github.com/Matt-London/pwnagotchi-flipper) - Integrate the Flipper Zero with the Pwnagotchi
@@ -165,6 +164,7 @@
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core
 - [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter) - A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
+- [mrjosh/helm-ls](https://github.com/mrjosh/helm-ls) - ⎈ Language server for Helm ⎈
 - [ricardomaraschini/oomhero](https://github.com/ricardomaraschini/oomhero) - Kubernetes sidecar for memory usage tracking
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
