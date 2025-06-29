@@ -364,6 +364,7 @@
 
 ## JavaScript 
 
+- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [rodrigozr/ProjectForecaster](https://github.com/rodrigozr/ProjectForecaster) - Forecast probabilities of a project's effort and duration using Monte Carlo simulations
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
