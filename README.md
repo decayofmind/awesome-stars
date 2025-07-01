@@ -405,6 +405,7 @@
 
 ## Lua 
 
+- [Exafunction/windsurf.nvim](https://github.com/Exafunction/windsurf.nvim) - A native neovim extension for Codeium
 - [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - Peek preview window for LSP locations in Neovim
 - [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
@@ -576,7 +577,7 @@
 
 ## Others 
 
-- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) - 
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through br
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
