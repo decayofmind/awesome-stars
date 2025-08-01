@@ -148,6 +148,7 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -1483,8 +1484,6 @@
 - [towolf/vim-helm](https://github.com/towolf/vim-helm) - vim syntax for helm templates (yaml + gotmpl + sprig + custom)
 - [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim) - A faster version of filetype.vim
 - [metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme) - A collection of Black Metal inspired base16 schemes.
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [zdharma-continuum/I_WANT_TO_HELP](https://github.com/zdharma-continuum/I_WANT_TO_HELP) - https://www.reddit.com/r/zsh/comments/qinb6j/httpsgithubcomzdharma_has_suddenly_disappeared_i/hil4oww/
 - [SoCo/SoCo](https://github.com/SoCo/SoCo) - SoCo (Sonos Controller) is a Python project that allows you to programmatically control Sonos speakers.
 - [egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://www.amazon.com/dp/1633438538)
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
@@ -1542,7 +1541,6 @@
 - [rxseger/homebridge-bme280](https://github.com/rxseger/homebridge-bme280) - BME280 temperature/humidity/pressure sensor bridge for Homebridge: https://github.com/nfarina/homebridge
 - [elotl/kip](https://github.com/elotl/kip) - Virtual-kubelet provider running pods in cloud instances
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
-- [sei40kr/zsh-fast-alias-tips](https://github.com/sei40kr/zsh-fast-alias-tips) - Help remembering the aliases you defined once
 - [jetstack/kube-oidc-proxy](https://github.com/jetstack/kube-oidc-proxy) - Reverse proxy to authenticate to managed Kubernetes API servers via OIDC.
 - [jnicholls/k8s-aws-nlb-proxy-protocol-operator](https://github.com/jnicholls/k8s-aws-nlb-proxy-protocol-operator) - Kubernetes Operator that fills the gap of AWS NLB PROXY protocol support (https://github.com/kubernetes/kubernetes/issues/57250).
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
@@ -1595,7 +1593,6 @@
 - [yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx
 - [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [AsavarTzeth/ansible-gnome_shell_extension](https://github.com/AsavarTzeth/ansible-gnome_shell_extension) - Ansible Module - For managing Gnome Shell extensions
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [ChWick/gnomesome](https://github.com/ChWick/gnomesome) - Yet another gnome extension for window tiling inspired by awesome supporting multiple workspaces and screens.
 - [edenlabllc/kong-plugin-stdout-log](https://github.com/edenlabllc/kong-plugin-stdout-log) - 
 - [PGBI/kong-dashboard](https://github.com/PGBI/kong-dashboard) - Dashboard for managing Kong gateway
@@ -1688,7 +1685,7 @@
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
+- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+ support, as well as offline maps and navigation functions.
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -1741,7 +1738,7 @@
 
 ## raspberry-pi 
 
-- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
+- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+ support, as well as offline maps and navigation functions.
 - [CoolerMasterTechnology/Pi-Tool](https://github.com/CoolerMasterTechnology/Pi-Tool) - Overclocking and button-remapping utility for the Raspberry Pi 4, designed for Pi Case 40
 - [pimoroni/blinkt](https://github.com/pimoroni/blinkt) - Python Library for Blinkt; 8 APA102 LEDs for your Raspberry Pi
 - [tijmenvandenbrink/enviroplus_exporter](https://github.com/tijmenvandenbrink/enviroplus_exporter) - Prometheus exporter for enviroplus module by Pimoroni
@@ -2075,6 +2072,29 @@
 ## xml 
 
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+
+## zsh 
+
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [MartinSimango/kubectl-plugin_completion](https://github.com/MartinSimango/kubectl-plugin_completion) - A kubectl plugin for allowing kubectl plugin completions
+- [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
+- [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [NICHOLAS85/z-a-eval](https://github.com/NICHOLAS85/z-a-eval) - A Zsh-Zinit annex (i.e. an extension), which caches arbitrarily slow command output to speed up shell startup.
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [zdharma-continuum/I_WANT_TO_HELP](https://github.com/zdharma-continuum/I_WANT_TO_HELP) - https://www.reddit.com/r/zsh/comments/qinb6j/httpsgithubcomzdharma_has_suddenly_disappeared_i/hil4oww/
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [sei40kr/zsh-fast-alias-tips](https://github.com/sei40kr/zsh-fast-alias-tips) - Help remembering the aliases you defined once
+- [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
+- [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 
 ## License
