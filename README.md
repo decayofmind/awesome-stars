@@ -719,7 +719,7 @@
 - [AsavarTzeth/ansible-gnome_shell_extension](https://github.com/AsavarTzeth/ansible-gnome_shell_extension) - Ansible Module - For managing Gnome Shell extensions
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
-- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 - [willthames/ansible-review](https://github.com/willthames/ansible-review) - 
 - [kolypto/j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
