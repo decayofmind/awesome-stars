@@ -522,7 +522,7 @@
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) - Mirror of https://codeberg.org/mfussenegger/nvim-dap-python
@@ -796,7 +796,7 @@
 - [gnachman/iTerm2-shell-integration](https://github.com/gnachman/iTerm2-shell-integration) - Shell integration and utilities for iTerm2
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [NICHOLAS85/z-a-eval](https://github.com/NICHOLAS85/z-a-eval) - A Zsh-Zinit annex (i.e. an extension), which caches arbitrarily slow command output to speed up shell startup.
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/configs/..
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [Karmenzind/monaco-nerd-fonts](https://github.com/Karmenzind/monaco-nerd-fonts) - monaco font patched with extra nerd glyphs
 - [scavlev/dotfiles](https://github.com/scavlev/dotfiles) - 
 - [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
