@@ -31,6 +31,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PlantUML](#plantuml)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -341,6 +342,7 @@
 
 ## HTML 
 
+- [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [meoker/pagger](https://github.com/meoker/pagger) - Sub-GHz generators for restaurants/kiosks paging systems compatible with the Flipper Zero.
 - [frekel/Pimoroni-PanTilt-Hat-WebInterface](https://github.com/frekel/Pimoroni-PanTilt-Hat-WebInterface) - This is a bootstrap webinterface for the Pimoroni PanTilt Hat
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -644,6 +646,10 @@
 
 - [yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx
 
+## PlantUML 
+
+- [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
+
 ## Python 
 
 - [martinskruze/stock_predictor](https://github.com/martinskruze/stock_predictor) - let's predict stock prices
@@ -796,7 +802,6 @@
 - [gnachman/iTerm2-shell-integration](https://github.com/gnachman/iTerm2-shell-integration) - Shell integration and utilities for iTerm2
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [NICHOLAS85/z-a-eval](https://github.com/NICHOLAS85/z-a-eval) - A Zsh-Zinit annex (i.e. an extension), which caches arbitrarily slow command output to speed up shell startup.
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [Karmenzind/monaco-nerd-fonts](https://github.com/Karmenzind/monaco-nerd-fonts) - monaco font patched with extra nerd glyphs
 - [scavlev/dotfiles](https://github.com/scavlev/dotfiles) - 
 - [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
@@ -891,6 +896,7 @@
 - [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq
 - [gidongkwon/logseq-plugin-tags](https://github.com/gidongkwon/logseq-plugin-tags) - A logseq plugin that lets you find #tags
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
