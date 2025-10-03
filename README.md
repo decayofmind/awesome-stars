@@ -149,7 +149,7 @@
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations
-- [aws/aws-network-policy-agent](https://github.com/aws/aws-network-policy-agent) - 
+- [aws/aws-network-policy-agent](https://github.com/aws/aws-network-policy-agent) - Network Policy Agent is a daemonset that is responsible for enforcing configured network policies on the cluster.
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
 - [xchapter7x/hcunit](https://github.com/xchapter7x/hcunit) - Helm Chart Unit: helps to unit test rendering of your templates using policies
