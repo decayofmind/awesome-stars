@@ -1426,7 +1426,7 @@
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [matwerber1/aws-athena-s3-access-log-queries](https://github.com/matwerber1/aws-athena-s3-access-log-queries) - Amazon Athena SQL queries that may be used with S3 server access logs
 - [rung/threat-matrix-cicd](https://github.com/rung/threat-matrix-cicd) - Threat matrix for CI/CD Pipeline
-- [aws/aws-network-policy-agent](https://github.com/aws/aws-network-policy-agent) - 
+- [aws/aws-network-policy-agent](https://github.com/aws/aws-network-policy-agent) - Network Policy Agent is a daemonset that is responsible for enforcing configured network policies on the cluster.
 - [limengdu/SeeedStudio-XIAO-ESP32S3-Sense-camera](https://github.com/limengdu/SeeedStudio-XIAO-ESP32S3-Sense-camera) - 
 - [Mjrovai/XIAO-ESP32S3-Sense](https://github.com/Mjrovai/XIAO-ESP32S3-Sense) - Seeed Studio XIAO ESP32S3 Sense integrates a camera sensor, digital microphone, and SD card support. Combining embedded ML computing power and photography capability, this development board is a great
 - [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
