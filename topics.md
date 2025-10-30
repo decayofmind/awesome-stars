@@ -571,7 +571,7 @@
 
 ## flask 
 
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 
@@ -629,7 +629,7 @@
 
 ## github 
 
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - GitHub's Neovim themes
 
@@ -1173,7 +1173,7 @@
 
 ## mongodb 
 
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 
 ## monitoring 
 
@@ -1199,7 +1199,7 @@
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.
 - [purarue/gitsigns-yadm.nvim](https://github.com/purarue/gitsigns-yadm.nvim) - gitsigns _on_attach_pre hook to show git decorations for files tracked by yadm
 - [rshkarin/mason-nvim-lint](https://github.com/rshkarin/mason-nvim-lint) - Extension to mason.nvim that makes it easier to use nvim-lint with mason.nvim
@@ -1338,7 +1338,7 @@
 
 ## numpy 
 
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 
 ## objective-c 
 
@@ -1714,7 +1714,7 @@
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+ support, as well as offline maps and navigation functions.
@@ -1757,7 +1757,7 @@
 
 ## python3 
 
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
