@@ -1046,7 +1046,7 @@
 - [purarue/gitsigns-yadm.nvim](https://github.com/purarue/gitsigns-yadm.nvim) - gitsigns _on_attach_pre hook to show git decorations for files tracked by yadm
 - [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) - 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
-- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Navigate code with an outline sidebar. Forked from symbols-outline.nvim.
+- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Fancy code outline sidebar to visualize and navigate code symbols in a tree hierarchy
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Pipe from wezterm, kitty, and neovim terminals into your current neovim instance. Like `code -r` on steroids.
@@ -1204,7 +1204,7 @@
 - [rshkarin/mason-nvim-lint](https://github.com/rshkarin/mason-nvim-lint) - Extension to mason.nvim that makes it easier to use nvim-lint with mason.nvim
 - [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) - 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
-- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Navigate code with an outline sidebar. Forked from symbols-outline.nvim.
+- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Fancy code outline sidebar to visualize and navigate code symbols in a tree hierarchy
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim) - Neovim colorscheme using Gnome Adwaita syntax
