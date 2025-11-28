@@ -5,9 +5,11 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
@@ -32,6 +34,7 @@
 - [code](#code)
 - [code-quality](#code-quality)
 - [coding](#coding)
+- [command-line](#command-line)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -83,6 +86,7 @@
 - [javascript](#javascript)
 - [jenkins](#jenkins)
 - [json](#json)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [learning](#learning)
 - [linux](#linux)
@@ -156,6 +160,10 @@
 - [xml](#xml)
 - [zsh](#zsh)
 
+## agent 
+
+- [jenkinsci/kubernetes-plugin](https://github.com/jenkinsci/kubernetes-plugin) - Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment
+
 ## ai 
 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
@@ -173,8 +181,13 @@
 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 
+## algorithms 
+
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+
 ## android 
 
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
@@ -418,6 +431,26 @@
 ## coding 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+## command-line 
+
+- [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
+- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 
 ## config 
 
@@ -880,6 +913,7 @@
 
 ## java 
 
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [IBM/spring-boot-microservices-on-kubernetes](https://github.com/IBM/spring-boot-microservices-on-kubernetes) - In this code we demonstrate how a simple Spring Boot application can be deployed on top of Kubernetes. This application, Office Space, mimicks the fictitious app idea from Michael Bolton in the movie 
 
@@ -904,6 +938,10 @@
 - [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
 - [rhysd/fixjson](https://github.com/rhysd/fixjson) - JSON Fixer for Humans using (relaxed) JSON5
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+
+## kotlin 
+
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 
 ## kubernetes 
 
