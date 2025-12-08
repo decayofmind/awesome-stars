@@ -266,7 +266,6 @@
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [elotl/kip](https://github.com/elotl/kip) - Virtual-kubelet provider running pods in cloud instances
-- [sei40kr/zsh-fast-alias-tips](https://github.com/sei40kr/zsh-fast-alias-tips) - Help remembering the aliases you defined once
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [MeilleursAgents/terraform-provider-ansiblevault](https://github.com/MeilleursAgents/terraform-provider-ansiblevault) - Read ansible vault from Terraform
 - [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructi
@@ -781,7 +780,7 @@
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
 - [alextsugi/jira-nvim](https://github.com/alextsugi/jira-nvim) - Control Jira from Neovim
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -794,6 +793,7 @@
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [sei40kr/zsh-fast-alias-tips](https://github.com/sei40kr/zsh-fast-alias-tips) - Help remembering the aliases you defined once
 - [mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli) - A super fast CLI tool to decode and encode JWTs built in Rust
 - [jnicholls/k8s-aws-nlb-proxy-protocol-operator](https://github.com/jnicholls/k8s-aws-nlb-proxy-protocol-operator) - Kubernetes Operator that fills the gap of AWS NLB PROXY protocol support (https://github.com/kubernetes/kubernetes/issues/57250).
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
@@ -806,6 +806,7 @@
 
 ## Shell 
 
+- [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
