@@ -97,6 +97,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [maven](#maven)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -1227,6 +1228,10 @@
 ## maven 
 
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+
+## mcp 
+
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 
 ## microservices 
 
