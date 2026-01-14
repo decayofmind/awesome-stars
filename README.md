@@ -125,6 +125,7 @@
 
 ## Go 
 
+- [tektoncd/chains](https://github.com/tektoncd/chains) - Supply Chain Security in Tekton Pipelines
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter) - Prometheus exporter that mines /proc to report on selected processes
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
