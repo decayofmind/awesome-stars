@@ -14,6 +14,7 @@
 - [Crystal](#crystal)
 - [Fennel](#fennel)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -319,6 +320,10 @@
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [vfarcic/docker-flow](https://github.com/vfarcic/docker-flow) - Docker Flow: Walkthrough
 
+## Go Template 
+
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
+
 ## Groovy 
 
 - [tkrzeminski/jenkins-groovy-scripts](https://github.com/tkrzeminski/jenkins-groovy-scripts) - 
@@ -567,7 +572,7 @@
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [edenlabllc/kong-plugin-stdout-log](https://github.com/edenlabllc/kong-plugin-stdout-log) - 
 
 ## MATLAB 
@@ -876,7 +881,6 @@
 ## Smarty 
 
 - [localstack/helm-charts](https://github.com/localstack/helm-charts) - Helm Charts for LocalStack
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [paulczar/conftest-helm-example](https://github.com/paulczar/conftest-helm-example) - example testing helm chart best practices with conftest
 - [IBM/charts](https://github.com/IBM/charts) - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 
