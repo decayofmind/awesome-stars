@@ -1654,7 +1654,7 @@
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [pedrohdz/vim-yaml-folds](https://github.com/pedrohdz/vim-yaml-folds) - YAML, RAML, EYAML & SaltStack SLS folding for Vim
 - [jfrog/log-analytics-prometheus](https://github.com/jfrog/log-analytics-prometheus) - JFrog Prometheus Log Analytics Integration
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [Skatteetaten/cognito-eks](https://github.com/Skatteetaten/cognito-eks) - 
 - [kube-aws/kube-spot-termination-notice-handler](https://github.com/kube-aws/kube-spot-termination-notice-handler) - A Kubernetes DaemonSet to gracefully delete pods 2 minutes before an EC2 Spot Instance gets terminated
 - [giantswarm/vault-exporter](https://github.com/giantswarm/vault-exporter) - A Prometheus metrics exporter for Hashicorp's Vault
