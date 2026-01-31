@@ -431,6 +431,7 @@
 
 ## Lua 
 
+- [javiorfo/nvim-soil](https://github.com/javiorfo/nvim-soil) - Neovim plugin  for Plant UML
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
 - [vague-theme/vague.nvim](https://github.com/vague-theme/vague.nvim) - A cool, dark, low contrast colorscheme for Neovim. Pastel yet vivid, like a fleeting memory...
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
