@@ -434,6 +434,7 @@
 
 ## Lua 
 
+- [kepano/flexoki-neovim](https://github.com/kepano/flexoki-neovim) - Flexoki color scheme for Neovim
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
