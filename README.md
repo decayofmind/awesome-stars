@@ -800,6 +800,7 @@
 
 ## Rust 
 
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
