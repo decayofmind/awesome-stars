@@ -775,7 +775,7 @@
 - [willthames/ansible-review](https://github.com/willthames/ansible-review) - 
 - [kolypto/j2cli](https://github.com/kolypto/j2cli) - Jinja2 Command-Line Tool, reworked
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [ghantoos/lshell](https://github.com/ghantoos/lshell) - lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's comm
+- [ghantoos/lshell](https://github.com/ghantoos/lshell) - lshell is a Python-based restricted shell that limits users to a defined set of commands, enforces path and SSH transfer controls (SCP/SFTP/rsync), logs user activity, supports session/time restrictio
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
