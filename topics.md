@@ -1792,7 +1792,7 @@
 - [vfarcic/docker-flow](https://github.com/vfarcic/docker-flow) - Docker Flow: Walkthrough
 - [flant/pam_docker](https://github.com/flant/pam_docker) - 
 - [nkhare/container-orchestration](https://github.com/nkhare/container-orchestration) - 
-- [ghantoos/lshell](https://github.com/ghantoos/lshell) - lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's comm
+- [ghantoos/lshell](https://github.com/ghantoos/lshell) - lshell is a Python-based restricted shell that limits users to a defined set of commands, enforces path and SSH transfer controls (SCP/SFTP/rsync), logs user activity, supports session/time restrictio
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [Glogster/ivan](https://github.com/Glogster/ivan) - Immutable assets
 - [JackStouffer/Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation) - A solid foundation for your flask app
