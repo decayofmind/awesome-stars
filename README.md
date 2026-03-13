@@ -327,6 +327,7 @@
 
 ## Go Template 
 
+- [localstack/helm-charts](https://github.com/localstack/helm-charts) - Helm Charts for LocalStack
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [IBM/charts](https://github.com/IBM/charts) - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 
@@ -906,7 +907,6 @@
 
 ## Smarty 
 
-- [localstack/helm-charts](https://github.com/localstack/helm-charts) - Helm Charts for LocalStack
 - [paulczar/conftest-helm-example](https://github.com/paulczar/conftest-helm-example) - example testing helm chart best practices with conftest
 
 ## Swift 
