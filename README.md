@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [bryopsida/http-healthcheck-sidecar](https://github.com/bryopsida/http-healthcheck-sidecar) - A sidecar that exposes the pod health as a http endpoint for external services
 - [XTLS/RealiTLScanner](https://github.com/XTLS/RealiTLScanner) - A TLS server scanner for Reality
 - [kpumuk/lazykiq](https://github.com/kpumuk/lazykiq) - rich terminal UI for Sidekiq
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
