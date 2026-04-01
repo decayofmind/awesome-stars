@@ -609,7 +609,6 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [GloballogicPractices/kong-custom-plugin](https://github.com/GloballogicPractices/kong-custom-plugin) - Kong API Gateway Custom plugin Hello World Sample
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 ## Mustache 
 
@@ -679,6 +678,7 @@
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [paunin/soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
 - [GlusterFS/Notes](https://github.com/GlusterFS/Notes) - Mostly unofficial GlusterFS recipes
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [spotify/cassandra-reaper](https://github.com/spotify/cassandra-reaper) - Software to run automated repairs of cassandra
 
@@ -842,6 +842,7 @@
 
 ## Shell 
 
+- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills) - Skills to transform AI Agents into GitOps Engineers
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
