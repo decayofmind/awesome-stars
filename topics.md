@@ -58,6 +58,7 @@
 - [education](#education)
 - [elixir](#elixir)
 - [emoji](#emoji)
+- [esp32](#esp32)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -643,6 +644,13 @@
 ## emoji 
 
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
+
+## esp32 
+
+- [platformio/platform-espressif32](https://github.com/platformio/platform-espressif32) - Espressif 32: development platform for PlatformIO
+- [uru-card/uru-card](https://github.com/uru-card/uru-card) - Arduino based firmware for FIDO2 Authenticator
+- [0015/ESP32Berry](https://github.com/0015/ESP32Berry) - ESP32Berry Project
+- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 
 ## finance 
 
@@ -1612,7 +1620,6 @@
 - [Blokje5/validating-terraform-with-conftest](https://github.com/Blokje5/validating-terraform-with-conftest) - Example Code along with the blog post at https://blokje5/dev
 - [mrjosh/helm-ls](https://github.com/mrjosh/helm-ls) - ⎈ Language server for Helm ⎈
 - [ricardomaraschini/oomhero](https://github.com/ricardomaraschini/oomhero) - Kubernetes sidecar for memory usage tracking
-- [0015/ESP32Berry](https://github.com/0015/ESP32Berry) - ESP32Berry Project
 - [nchudleigh/homerow](https://github.com/nchudleigh/homerow) - Keyboard navigation for all of macOS. Click, scroll, and perform tasks with your keyboard.
 - [anuvyklack/fold-preview.nvim](https://github.com/anuvyklack/fold-preview.nvim) - Preview folds in float window
 - [lunacookies/vim-colors-xcode](https://github.com/lunacookies/vim-colors-xcode) - Xcode 11’s dark and light colourschemes for Vim
