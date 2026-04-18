@@ -306,7 +306,7 @@
 - [flant/addon-operator](https://github.com/flant/addon-operator) - A system to manage additional components for Kubernetes cluster in a simple, consistent and automated way.
 - [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
 - [giantswarm/etcd-backup](https://github.com/giantswarm/etcd-backup) - Creates etcd backups and uploads them to AWS S3
-- [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
+- [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [vmware-archive/gangway](https://github.com/vmware-archive/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
 - [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
@@ -448,7 +448,6 @@
 - [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
-- [javiorfo/nvim-soil](https://github.com/javiorfo/nvim-soil) - MIGRATED TO https://codeberg.org/caskstrength/nvim-soil
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
 - [vague-theme/vague.nvim](https://github.com/vague-theme/vague.nvim) - A cool, dark, low contrast colorscheme for Neovim. Pastel yet vivid, like a fleeting memory...
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
