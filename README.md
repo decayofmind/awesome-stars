@@ -186,7 +186,6 @@
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core
 - [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter) - A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone
 - [mrjosh/helm-ls](https://github.com/mrjosh/helm-ls) - ⎈ Language server for Helm ⎈
-- [ricardomaraschini/oomhero](https://github.com/ricardomaraschini/oomhero) - Kubernetes sidecar for memory usage tracking
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
 - [sukeesh/k8s-job-notify](https://github.com/sukeesh/k8s-job-notify) - Kuberenets Job/CronJob Notifier
@@ -811,6 +810,7 @@
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
+- [ricardomaraschini/oomhero](https://github.com/ricardomaraschini/oomhero) - Kubernetes sidecar for memory usage tracking
 - [alextsugi/jira-nvim](https://github.com/alextsugi/jira-nvim) - Control Jira from Neovim
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
