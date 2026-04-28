@@ -166,6 +166,7 @@
 - [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
+- [vpn](#vpn)
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
@@ -2307,6 +2308,10 @@
 ## visualization 
 
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
+
+## vpn 
+
+- [hxehex/russia-mobile-internet-whitelist](https://github.com/hxehex/russia-mobile-internet-whitelist) - a list of domains and ips that stay live in russia when the mobile internet gets restricted
 
 ## web 
 
