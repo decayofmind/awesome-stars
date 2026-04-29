@@ -1566,7 +1566,7 @@
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless
+- [cymian/mouseless](https://github.com/cymian/mouseless) - Bug tracking and more for Mouseless
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [martinskruze/stock_predictor](https://github.com/martinskruze/stock_predictor) - let's predict stock prices
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
