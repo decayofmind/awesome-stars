@@ -1898,7 +1898,7 @@
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+ support, as well as offline maps and navigation functions.
+- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open-source bike computer with GPS and ANT+ capabilities, based on the Raspberry Pi Zero (W, WH, 2 W) or the Compute Module Zero. It also includes offline maps and navigation.
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -1952,7 +1952,7 @@
 
 ## raspberry-pi 
 
-- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+ support, as well as offline maps and navigation functions.
+- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open-source bike computer with GPS and ANT+ capabilities, based on the Raspberry Pi Zero (W, WH, 2 W) or the Compute Module Zero. It also includes offline maps and navigation.
 - [CoolerMasterTechnology/Pi-Tool](https://github.com/CoolerMasterTechnology/Pi-Tool) - Overclocking and button-remapping utility for the Raspberry Pi 4, designed for Pi Case 40
 - [pimoroni/blinkt](https://github.com/pimoroni/blinkt) - Python Library for Blinkt; 8 APA102 LEDs for your Raspberry Pi
 - [tijmenvandenbrink/enviroplus_exporter](https://github.com/tijmenvandenbrink/enviroplus_exporter) - Prometheus exporter for enviroplus module by Pimoroni
