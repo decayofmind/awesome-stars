@@ -162,6 +162,7 @@
 - [terraform](#terraform)
 - [testing](#testing)
 - [tui](#tui)
+- [typescript](#typescript)
 - [ui](#ui)
 - [video](#video)
 - [vim](#vim)
@@ -626,7 +627,7 @@
 ## documentation 
 
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🏃💨 Search Dash.app from your Neovim fuzzy finder. Built with Rust 🦀 and Lua
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -734,6 +735,7 @@
 
 ## go 
 
+- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [kpumuk/lazykiq](https://github.com/kpumuk/lazykiq) - rich terminal UI for Sidekiq
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter) - Prometheus exporter that mines /proc to report on selected processes
@@ -1263,6 +1265,9 @@
 
 ## macos 
 
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1872,6 +1877,7 @@
 
 ## productivity 
 
+- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -1886,7 +1892,7 @@
 
 ## project-management 
 
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 ## python 
 
@@ -2103,6 +2109,7 @@
 
 ## swift 
 
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
@@ -2233,6 +2240,10 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+
+## typescript 
+
+- [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 
 ## ui 
 
