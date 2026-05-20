@@ -320,7 +320,7 @@
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [external-secrets/kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
@@ -332,7 +332,7 @@
 
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -447,7 +447,7 @@
 - [jenkinsci/kubernetes-plugin](https://github.com/jenkinsci/kubernetes-plugin) - Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment
 - [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 
 ## code 
 
@@ -568,7 +568,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [gruntwork-io/pre-commit](https://github.com/gruntwork-io/pre-commit) - A collection of pre-commit hooks used by Gruntwork tools
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [WesleyCharlesBlake/terraform-aws-eks](https://github.com/WesleyCharlesBlake/terraform-aws-eks) - Deploy a full EKS cluster with Terraform
@@ -700,6 +700,7 @@
 
 ## git 
 
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
 - [purarue/gitsigns-yadm.nvim](https://github.com/purarue/gitsigns-yadm.nvim) - gitsigns _on_attach_pre hook to show git decorations for files tracked by yadm
@@ -833,7 +834,7 @@
 
 ## google 
 
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 
 ## google-cloud 
 
@@ -1556,6 +1557,7 @@
 
 ## others 
 
+- [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim.
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [XTLS/RealiTLScanner](https://github.com/XTLS/RealiTLScanner) - A TLS server scanner for Reality
@@ -2204,7 +2206,7 @@
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [cloudposse-archives/tfmask](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
