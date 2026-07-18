@@ -101,6 +101,7 @@
 - [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [linux](#linux)
+- [llm](#llm)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -197,6 +198,7 @@
 
 ## ai 
 
+- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
@@ -1202,6 +1204,10 @@
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 
+## llm 
+
+- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
+
 ## lua 
 
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
@@ -1381,6 +1387,7 @@
 
 ## neovim 
 
+- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
 - [kepano/flexoki-neovim](https://github.com/kepano/flexoki-neovim) - Flexoki color scheme for Neovim
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
