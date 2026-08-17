@@ -123,7 +123,6 @@
 
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 
 ## Go 
 
@@ -655,6 +654,7 @@
 - [godbout/Scrolla.blahblah](https://github.com/godbout/Scrolla.blahblah) - Scroll with your keyboard all over macOS
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [Speexvocon/FlipperZeroHeaderExtender](https://github.com/Speexvocon/FlipperZeroHeaderExtender) - Flipper Zero Header Extender Gerber Files
 - [Tundrak/IPTV-Italia](https://github.com/Tundrak/IPTV-Italia) - Collezione di link a canali TV e Radio italiani visibili e ascoltabili da Internet con un media player
@@ -692,6 +692,7 @@
 
 ## Python 
 
+- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
