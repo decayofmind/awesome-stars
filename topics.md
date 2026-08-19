@@ -575,6 +575,7 @@
 
 ## devops 
 
+- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
@@ -1059,7 +1060,7 @@
 
 ## kubernetes 
 
-- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly
+- [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof.
 - [bryopsida/http-healthcheck-sidecar](https://github.com/bryopsida/http-healthcheck-sidecar) - A sidecar that exposes the pod health as a http endpoint for external services
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
