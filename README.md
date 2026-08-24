@@ -781,7 +781,6 @@
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [JackStouffer/Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation) - A solid foundation for your flask app
-- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [datastax-archive/ComboAMI](https://github.com/datastax-archive/ComboAMI) - The AMI takes a set of input parameters via the EC2 user-data to install, RAID, ring, and launch a DataStax Enterprise/Community cluster.
 - [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
