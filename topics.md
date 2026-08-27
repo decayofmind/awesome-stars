@@ -1016,7 +1016,6 @@
 ## iot 
 
 - [platformio/platform-espressif32](https://github.com/platformio/platform-espressif32) - Espressif 32: development platform for PlatformIO
-- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 
 ## java 
 
