@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [Batchfile](#batchfile)
+- [Blade](#blade)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -52,6 +53,10 @@
 ## Batchfile 
 
 - [DrB0rk/Flipper-Zero-Boards](https://github.com/DrB0rk/Flipper-Zero-Boards) - a collection of boards ive designed for the Flipper zero. more are on their way!
+
+## Blade 
+
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -396,7 +401,6 @@
 
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [rodrigozr/ProjectForecaster](https://github.com/rodrigozr/ProjectForecaster) - Forecast probabilities of a project's effort and duration using Monte Carlo simulations
