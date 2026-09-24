@@ -803,6 +803,7 @@
 
 ## Rust 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [coreos/chunkah](https://github.com/coreos/chunkah) - An OCI building tool for content-based layers
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -922,6 +923,7 @@
 
 ## Swift 
 
+- [umputun/agterm](https://github.com/umputun/agterm) - A genuinely good terminal
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [runcat-dev/RunCatNeo](https://github.com/runcat-dev/RunCatNeo) - A cute running cat animation on your macOS menubar.
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
