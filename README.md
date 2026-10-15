@@ -404,7 +404,6 @@
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [rodrigozr/ProjectForecaster](https://github.com/rodrigozr/ProjectForecaster) - Forecast probabilities of a project's effort and duration using Monte Carlo simulations
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [derBroBro/aws-role-editor](https://github.com/derBroBro/aws-role-editor) - An Google Chrome extension to modify the roles of the AWS (Amazon Web Services) Console.
 - [sue445/chrome-tanuki-notifier](https://github.com/sue445/chrome-tanuki-notifier) - Notify Gitlab Project events (Commit, Issue, MergeRequest and Milestone)
@@ -782,7 +781,6 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [ghantoos/lshell](https://github.com/ghantoos/lshell) - lshell is a Python-based restricted shell that limits users to a defined set of commands, enforces path and SSH transfer controls (SCP/SFTP/rsync), logs user activity, supports session/time restrictio
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
-- [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [JackStouffer/Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation) - A solid foundation for your flask app
 - [datastax-archive/ComboAMI](https://github.com/datastax-archive/ComboAMI) - The AMI takes a set of input parameters via the EC2 user-data to install, RAID, ring, and launch a DataStax Enterprise/Community cluster.
@@ -964,6 +962,7 @@
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq
 - [gidongkwon/logseq-plugin-tags](https://github.com/gidongkwon/logseq-plugin-tags) - A logseq plugin that lets you find #tags
+- [rodrigozr/ProjectForecaster](https://github.com/rodrigozr/ProjectForecaster) - Forecast probabilities of a project's effort and duration using Monte Carlo simulations
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
