@@ -449,7 +449,6 @@
 ## Lua 
 
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
-- [metalelf0/black-metal-theme-neovim](https://github.com/metalelf0/black-metal-theme-neovim) - A collection of black-metal themed neovim colorschemes.
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
 - [kepano/flexoki-neovim](https://github.com/kepano/flexoki-neovim) - Flexoki color scheme for Neovim
@@ -847,6 +846,7 @@
 ## Shell 
 
 - [inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed) - Kubernetes CPU limits make your apps (very) slow and costly. CPU throttling analyzed, with proof.
+- [metalelf0/black-metal-theme-neovim](https://github.com/metalelf0/black-metal-theme-neovim) - A collection of black-metal themed neovim colorschemes.
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills) - Skills to transform AI Agents into GitOps Engineers
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
@@ -928,7 +928,7 @@
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [mjrusso/scoot](https://github.com/mjrusso/scoot) - Keyboard-driven MacOS cursor actuator
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [aahung/Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
