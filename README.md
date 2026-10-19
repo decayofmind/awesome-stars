@@ -921,6 +921,7 @@
 
 ## Swift 
 
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [umputun/agterm](https://github.com/umputun/agterm) - A genuinely good terminal
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [runcat-dev/RunCatNeo](https://github.com/runcat-dev/RunCatNeo) - A cute running cat animation on your macOS menubar.
