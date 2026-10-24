@@ -315,6 +315,7 @@
 
 ## aws 
 
+- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [dragondrop-cloud/cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge) - "Terraform best practices as a Pull Request." Codify resources outside of Terraform control, detect drift, estimate cloud costs, identify security risks, and more.
 - [lgallard/terraform-aws-backup](https://github.com/lgallard/terraform-aws-backup) - Terraform module to create AWS Backup plans. AWS Backup is a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services (EBS volumes, RDS databa
@@ -429,6 +430,7 @@
 
 ## cli 
 
+- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [umputun/agterm](https://github.com/umputun/agterm) - A genuinely good terminal
 - [kpumuk/lazykiq](https://github.com/kpumuk/lazykiq) - rich terminal UI for Sidekiq
@@ -758,6 +760,7 @@
 
 ## go 
 
+- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
@@ -1605,6 +1608,7 @@
 
 ## others 
 
+- [home-operations/flate](https://github.com/home-operations/flate) - A Flux resource validator and inflator ⇄
 - [dgunzy/flux9s](https://github.com/dgunzy/flux9s) - A K9s-inspired terminal UI for monitoring Flux resources in real-time
 - [runetfreedom/russia-v2ray-rules-dat](https://github.com/runetfreedom/russia-v2ray-rules-dat) - Этот репозиторий содержит автоматически обновляемые правила маршрутизации V2Ray, основанные на данных о заблокированных доменах и адресах в России.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
