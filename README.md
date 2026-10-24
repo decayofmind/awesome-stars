@@ -132,6 +132,8 @@
 
 ## Go 
 
+- [home-operations/flate](https://github.com/home-operations/flate) - A Flux resource validator and inflator ⇄
+- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
