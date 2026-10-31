@@ -901,7 +901,6 @@
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
-- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1609,7 +1608,7 @@
 
 ## others 
 
-- [home-operations/flate](https://github.com/home-operations/flate) - A Flux resource validator and inflator ⇄
+- [home-operations/flate](https://github.com/home-operations/flate) - Inflate, validate, and diff Flux resources ⇄
 - [dgunzy/flux9s](https://github.com/dgunzy/flux9s) - A K9s-inspired terminal UI for monitoring Flux resources in real-time
 - [runetfreedom/russia-v2ray-rules-dat](https://github.com/runetfreedom/russia-v2ray-rules-dat) - Этот репозиторий содержит автоматически обновляемые правила маршрутизации V2Ray, основанные на данных о заблокированных доменах и адресах в России.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
