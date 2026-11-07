@@ -156,7 +156,6 @@
 - [shell](#shell)
 - [skills](#skills)
 - [software](#software)
-- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [statistics](#statistics)
 - [swift](#swift)
@@ -1024,7 +1023,6 @@
 
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [IBM/spring-boot-microservices-on-kubernetes](https://github.com/IBM/spring-boot-microservices-on-kubernetes) - In this code we demonstrate how a simple Spring Boot application can be deployed on top of Kubernetes. This application, Office Space, mimicks the fictitious app idea from Michael Bolton in the movie 
 
 ## javascript 
 
@@ -1169,7 +1167,6 @@
 - [mintel/dex-k8s-authenticator](https://github.com/mintel/dex-k8s-authenticator) - A Kubernetes Dex Client Authenticator
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
-- [IBM/spring-boot-microservices-on-kubernetes](https://github.com/IBM/spring-boot-microservices-on-kubernetes) - In this code we demonstrate how a simple Spring Boot application can be deployed on top of Kubernetes. This application, Office Space, mimicks the fictitious app idea from Michael Bolton in the movie 
 - [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
@@ -1228,7 +1225,7 @@
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Pipe from wezterm, kitty, and neovim terminals into your current neovim instance. Like `code -r` on steroids.
-- [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize Your Neovim Tab Workflow: Introducing Enhanced Tab Scoping!
+- [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize your Neovim Tab workflow by introducing enhanced Tab scoping.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
 - [ramojus/mellifluous.nvim](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme for Neovim
@@ -1361,7 +1358,6 @@
 - [nicholasjackson/fake-service](https://github.com/nicholasjackson/fake-service) - Simple service for testing upstream service communications
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
-- [IBM/spring-boot-microservices-on-kubernetes](https://github.com/IBM/spring-boot-microservices-on-kubernetes) - In this code we demonstrate how a simple Spring Boot application can be deployed on top of Kubernetes. This application, Office Space, mimicks the fictitious app idea from Michael Bolton in the movie 
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
 
 ## mobile 
@@ -1426,7 +1422,7 @@
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) - 
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Pipe from wezterm, kitty, and neovim terminals into your current neovim instance. Like `code -r` on steroids.
-- [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize Your Neovim Tab Workflow: Introducing Enhanced Tab Scoping!
+- [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize your Neovim Tab workflow by introducing enhanced Tab scoping.
 - [Allaman/kustomize.nvim](https://github.com/Allaman/kustomize.nvim) - A Neovim plugin with some useful functions for working with Kustomize
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
@@ -2129,7 +2125,6 @@
 ## serverless 
 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
-- [IBM/spring-boot-microservices-on-kubernetes](https://github.com/IBM/spring-boot-microservices-on-kubernetes) - In this code we demonstrate how a simple Spring Boot application can be deployed on top of Kubernetes. This application, Office Space, mimicks the fictitious app idea from Michael Bolton in the movie 
 
 ## shell 
 
@@ -2161,10 +2156,6 @@
 ## software 
 
 - [cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite) - CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR
-
-## spring-boot 
-
-- [IBM/spring-boot-microservices-on-kubernetes](https://github.com/IBM/spring-boot-microservices-on-kubernetes) - In this code we demonstrate how a simple Spring Boot application can be deployed on top of Kubernetes. This application, Office Space, mimicks the fictitious app idea from Michael Bolton in the movie 
 
 ## sql 
 
