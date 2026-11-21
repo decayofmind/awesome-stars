@@ -648,7 +648,7 @@
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [giantswarm/etcd-backup](https://github.com/giantswarm/etcd-backup) - Creates etcd backups and uploads them to AWS S3
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) - Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 - [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [SUSE/Portus](https://github.com/SUSE/Portus) - Authorization service and frontend for Docker registry (v2)
@@ -751,7 +751,7 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
@@ -977,7 +977,7 @@
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) - Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 
@@ -1197,7 +1197,7 @@
 - [dhilipkumars/redis-sentinel-micro](https://github.com/dhilipkumars/redis-sentinel-micro) - Minimalistic redis sentinel process only to do slave promoton
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
 - [kinvolk/kube-spawn](https://github.com/kinvolk/kube-spawn) - A tool for creating multi-node Kubernetes clusters on a Linux machine using kubeadm & systemd-nspawn. Brought to you by the Kinvolk team.
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) - Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 
 ## learn-to-code 
 
@@ -2091,7 +2091,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🏃💨 Search Dash.app from your Neovim fuzzy finder. Built with Rust 🦀 and Lua
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -2323,6 +2323,7 @@
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
